@@ -1,0 +1,49 @@
+5 Plugin Wordpress Terbaik Untuk Meningkatkan Trafik Pengunjung
+==============================
+<div style="text-align: justify">Wordpress sebagai salah satu platform blogging yang cukup populer hingga saat ini terus memberikan layanan terbaiknya dengan memberikan update untuk performa yang lebih baik. Update yang dilakukan wordpress ini sedikit banyak akan mempengaruhi tools yang terinstall di wordpress kalian.</div><div><br/></div>
+
+<div style="text-align: justify">Tools atau yang bisa kita sebut dengan plugin memang memiliki peran cukup penting. Plugin ini berfungsi sebagai alat yang bisa memberikan berbagai macam fitur menarik pada website atau blog kalian. Bisa kalian bandingkan wordpress yang menggunakan berbagai macam plugin dengan wordpress yang polos tentu hasilnya beda bukan?</div><div><br/></div>
+
+<div style="text-align: justify">Sampai saat ini telah tercatat plugin yang ada di wordpress jumlahnya kurang lebih mencapai 55 ribu. Plugin tersebut secara keseluruhan bisa didapatkan secara gratis dan kamu hanya tinggal install saja dengan mengikuti petunjuk yang diberikan oleh pengembangnya.</div><div><br/></div>
+
+<div style="text-align: justify">Tidak hanya plugin gratis saja, namun terdapat juga plugin berbayar yang dapat meningkatkan fungsionalitas sebuah website. Beberapa diantaranya termasuk plugin rilisan baru dan yang lainnya rilisan lama.</div><div><br/></div>
+
+<div style="text-align: justify">Plugin dibagi lagi menjadi beberapa kategori sesuai dengan kegunaannya. Jadi, kamu tidak usah khawatir akan bingungnya mau install plugin apa karna pada setiap kategori terdapat rekomendasi plugin terbaik wordpress. Namun, jika kamu masih tidak tahu plugin yang perlu di install di wordpress. Pada artikel ini saya akan menjelaskan mengenai plugin wordpress yang harus diinstall simak dibawah ini:</div><div><br/></div>
+
+<h2>1. Rankmath SEO</h2><div><br/></div>
+
+<div style="text-align: justify">SEO menjadi salah satu faktor penting bagi sebuah website untuk meningkatkan visitor. Tanpa teknik seo dijamin kamu akan kesusahan menembus halaman pertama di pencarian. Diluar sana banyak sekali teknik seo yang diberikan oleh orang-orang dan masing-masing memiliki pengalamannya sendiri.</div><div><br/></div>
+
+<div style="text-align: justify">Ada yang bisa mendapatkan visitor dari teknik tersebut dan ada yang tidak. Di wordpress itu sendiri kamu tidak perlu mencari teknik seo yang benar seperti apa karna ada sebuah plugin bernama Rankmath.</div><div><br/></div>
+
+<div style="text-align: justify">Rankmath ini merupakan salah satu plugin wordpress terbaik untuk urusan  SEO. Fitur yang ada pada tools ini memberikan banyak manfaat bagi penggunanya contohnya saat pembuatan artikel. Kalian akan diberikan sebuah standar penulisan seo yang baik dan benar, jadi kalian bisa mengetahui letak benar dan salah saat menulis sebuah konten.</div><div><br/></div>
+
+<div style="text-align: justify">Sayangnya dengan segala kemudahan dari fitur yang diberikan, kalian tidak bisa menggunakan plugin ini secara gratis. Kalian perlu mengeluarkan sedikit uang untuk membeli plugin ini, tapi tenang dijamin bahwa kalian tidak akan rugi ketika sudah membelinya.</div><div><br/></div>
+
+<h2>2. Rich Snippet</h2><div><br/></div>
+
+<div style="text-align: justify">Kalian pasti pernah mencari sesuatu di internet dan melihat sebuah website memiliki struktur seperti penomoran atau terdapat bintang kan, nah struktur tersebut namanya adalah rich snippet. Rich snippet ini sangatlah berguna bagi seorang blogger terutama websitenya karna dengan adanya rich snippet ini website yang dimiliki dapat klik yang meningkat.</div><div><br/></div>
+
+<div style="text-align: justify">Selain itu, sisi positif website yang memiliki snippet ini adalah mendapat reputasi baik dimata user. Karna rich snippet diberikan kepada website atau halaman yang punya nilai sangat baik di mata mesin pencari entah itu dari struktur kode, penulisan, dan yang lain.</div><div><br/></div>
+
+<div style="text-align: justify">Untuk mendapatkan snippet memang agak rumit, tapi kamu bisa mempermudahnya dengan menggunakan sebuah plugin rich snippet yang ada di wordpress. Penggunaannya juga cukup mudah kalo kalin belum paham bisa lihat tutorialnya di youtube.</div><div><br/></div>
+
+<h2>3. Monsterinsights</h2><div><br/></div>
+
+<div style="text-align: justify">Selanjutnya ada plugin monsterinsights yang berfungsi sebagai menganalisa trafik pengunjung website. Plugin ini mirip bahkan bisa dikatakan sama dengan google analytics, disini kalian bisa melihat data-data yang berhubungan seperti banyaknya jumlah pengunjung, Negara yang menjadi pusat mendatangkan trafik, dan lain-lain.</div><div><br/></div>
+
+<div style="text-align: justify">Selanjutnya ada plugin monsterinsights yang berfungsi sebagai menganalisa trafik pengunjung website. Plugin ini mirip bahkan bisa dikatakan sama dengan google analytics, disini kalian bisa melihat data-data yang berhubungan seperti banyaknya jumlah pengunjung, Negara yang menjadi pusat mendatangkan trafik, dan lain-lain.</div><div><br/></div>
+
+<h2>4. All In One WP Security</h2><div><br/></div>
+
+<div style="text-align: justify">Untuk memberikan keamanan yang lebih baik pada website kalian. Sebaiknya kalian menginstall salah satu plugin keamanan terbaik untuk wordpress yaitu all in one wp security. Plugin ini mampu menjamin keamanan atas website kalian, meski tidak 100% aman setidaknya plugin ini mampu menjaga website dari segala aktivitas yang mencurigakan.</div><div><br/></div>
+
+<div style="text-align: justify">Seperti yang kita ketahui aktivitas seperti deface sering kali terjadi baik pada website besar maupun kecil. Hal tersebut tidaklah bisa dihentikan, oleh karena itu kitalah yang perlu waspada sebelum mengalami kejadian tersebut.</div><div><br/></div>
+
+<h2>5. Accelerated Mobile Pages</h2><div><br/></div>
+
+<div style="text-align: justify">Bagi para pengunjung mencari informasi di internet seperti balapan. Artinya mereka lebih menyukai website yang memiliki kecepatan loading yang sangat cepat karna mereka tidak mau buang-buang waktu untuk menunggu loading website. Karena itu jika kalian memiliki konten yang bagus, namun performa website sangat lamban ya sudah tidak akan didatangi lagi.</div><div><br/></div>
+
+<div style="text-align: justify">Untuk mengatasi permasalahan tersebut ada satu plugin gratis yang bisa meningkatkan kecepatan loading namanya adalah AMP (Accelerated Mobile Pages). Plugin ini mampu meningkatkan loading website dan jika kamu telah menggunakan amp, maka akan muncul gambar petir di sebelah judul artikel kalian pada saat mencari di search engine.</div><div><br/></div>
+
+<div style="text-align: justify">Demikianlah pembahasan mengenai plugin yang wajib di install guna meningkatkan visitor website. Dari beberapa plugin diatas jika salah satunya belum kamu install sebaiknya install dari sekarang ya dan lihat perbedaan hasilnya. Kalian juga bisa melihat artikel menarik mengenai <a href="https://www.coldeja.com">product activation failed</a> lainnya di www.coldeja.com</div><div><br/></div>
