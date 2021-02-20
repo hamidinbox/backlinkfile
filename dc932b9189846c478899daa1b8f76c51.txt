@@ -1,0 +1,109 @@
+Bot Telegram Penghasil Uang
+==============================
+by mas jack - Bot Telegram penghasil uang dan Cara Menggunakan File Script Termux.
+
+
+Sekarang banyak  bot penghasil uang digital salah satunya Bitcoin, Harga uang digital sekarang juga sudah naik bagaimana g' tergiur ya,  hari yang paling menyenangkan kalau anda investasi sampai jutaan, tidak disangka harga semua naik apalagi btc sekarang udah mencapai 600 juta Lebih.
+
+
+
+
+Kumpulan Bot tele paling membayar
+
+
+Bot penghasil uang coin banyak yang mencari, karena dengan uang coin yang kita dapat nanti juga bisa di investasikan seperti di crypto, rekeningku.com dan indodak di situ melayani segala bentuk coin, jadi kita tidak usah mengeluarkan uang. dikit demi sedikit nanti juga banyak.
+
+
+
+Memang investasi uang digital sudah banyak digemari oleh kalangan elit karena uang digital adalah satu - satunya investasi yang sangat menguntungkan, tapi itu semua ada triknya jangan terlalu senang dulu. 
+
+
+
+Nah sekarang mari kita bahas tentang beberapa bot penghasil uang di telegram yang paling membayar :
+
+
+
+1. Btc Klik Bot.
+kalau btc coinya di belakang sendiri karena yang kita dapat dari bot btc mengikuti harga pasar jadi jangan kaget kalau anda pas nambang btc dapatnya sedikit. minim widraw 6000 satoshi, karena btc fee nya mahal 3000 satoshi, sekarang harga btc sampai 650 jutaan naiknya sangat cepat.
+
+
+
+2. Bch Klik Bot.
+Bch hampir sama dengan bcha karena sekarang bch udah di bagi dua, kalau bch ini mungkin masih sedikit penambang karena coinya masih standar. harga udah naik lagi 1bch 10,3 juta itu pun masih naik turun. kalau masalah nambang bch yang kita dapat minim 6 - 3000 coin.
+
+
+
+3. Doge Klik Bot.
+Wach yang doge coin ini sangah luar biasa makanya banyak sekali penambang doge coin karena harganya melambung tinggi dari 34 sekarang sudah hampir 1 doge idr 1000, cukup menggiurkan bukan.
+
+
+
+4. Ltc Klik Bot.
+Ltc sekarang beda dulu cuma 600 ribu sekarang dah naik 1 ltc idr 2juta lebih tapi juga masih naik turun, kalau anda memilih untuk menambang ltc bot itu sangat tepat.
+
+
+
+5. Zec Klik Bot.
+Nah kalau zec sangat lambat naiknya makanya para penambang zec sangat sedikit karena faktor kenaikan harganya, Tapi jangan salah ya sekarang zec dah naik berkisar 2 juta lebih, baru kali ini zec naik sampai segitu.
+
+
+
+Dari 5 bot telegram diatas sekarang  paling banyak penambang DOGE COIN, Tapi tidak semudah itu semua pasti ada caranya buat nambang 5 bot telegram itu. 
+
+
+
+* Berikut Cara Menambang Bot telegram *
+Simpel saja ya g usah banyak banyak biar anda cepet paham :
+
+1. Download dulu app telegram. 
+
+2. Add Login lalu Masukan nomer kartu, tunggu sampai kode nya keluar.
+
+3. Ketik @klikbisbot nah nanti di situ ada kumpulan bot telegram yang anda cari. 
+
+
+
+file script klikbot telegram 
+BCH_clickbot
+Zcash_click_bot
+Dogecoin_click_bot
+Litecoin_click_bot
+BitcoinClick_bot
+
+
+Trik Nuyul Ltc klikbot, Doge Klikbot dan Btc Klikbot
+
+Yang harus diperlukan sebelum mulai nuyul sebagai berikut 
+
+Siapkan kartu perdana sebanyak mungkin untuk membuat akun baru yang ingin di daftarkan.
+Download aplikasi multigram atau telegram x cari aja di crome kalau tidak  playstore tidak ada.
+Download aplikasi texnow untuk tambah buat kartu luar.
+Cari script tuyulnya atau beli yang premium.
+Download Aplikasi termux untuk mulai menuyul.
+
+Cara Menggunakan Script Termux
+Bagi anda yang sedang mencari script termuk untuk kebutuhan Klikbot sebaiknya kamu pahami dulu ya tentang apa itu script termux.
+
+
+Masalahnya sekarang sudah banyak script termux di internst yang gunanya berbeda - beda keperluanya, baca dulu agar bisa menggunakan script termux biar nanti kalau anda menjalakan tidak akan eror.
+
+Script yang anda peroleh di internet tidak bisa langsung di gunakan karena anda harus menginstal file yang akan mau di jalankan.
+
+Berikut file yang akan digunakan buat script bot telegram :
+
+pkg update pkg upgrade
+pkg install python
+pip install telethon
+pip install requests
+pip insrall bs4
+pip install rsa
+pip install async_generator
+pip install colorama
+pip install -r requirements
+cd /sdcard/file script yang di extark
+python main.py +62 nama curency
+
+Perhatikan tandanya dan jangan sampai keliru masalah nya kalau anda kliru atau kurang maka akan eror di termux.
+
+
+itulah kumpulan dari bot penghasil telegram seperti btc, doge, ltc, zec, bch yang paling membayar dan cara menggunakan script termux.
