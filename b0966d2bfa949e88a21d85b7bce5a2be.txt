@@ -1,0 +1,190 @@
+Cara Membuat Scrift Termux Untuk Pemula, dengan Menggunakan bahasa pemrograman bash (Lengkap) 
+==============================
+Di sini saya akan share tentang, tutorial cara membuat scrift termux dengan menggunakan bahasa pemrograman bash, saya akan buat kan tutorialnya sedetail mungkin, saya akan share tentang cara membuat scrift bash untuk login termux, dan juga membuat scrift untuk daftar list, yang bisa di akses dengan mengetikan pilihan, yang telah di sediakan
+
+Scrift untuk login termux
+Scrift login termux, bertujuan untuk mengunci aplikasi termux dengan sandi yang telah di tentukan, contohnya seperti berikut ini, 
+
+Scrift Daftar List
+Scrift daftar list adalah scrift yang bisa di jalankan dengan memasukan perintah, yang telah di tentukan contohnya seperti berikut ini, 
+
+Apa Itu Bash? 
+Bash atau shell adalah bahasa pemrograman, yang saya rasa mudah untuk di pahami, sangat cocok untuk anda yang ingin belajar bahasa pemrograman, saya sangat menyarankan, kuasai bahasa pemrograman bash terlebih dahulu, sebelum anda lanjut ke bahasa pemrograman lain, seperti python, php dan lain sebagainya.
+
+Apa Itu Termux?
+Termux adalah aplikasi terminal android, yang hampir sama seperti linux, termux tidak memerlukan akses root layaknya linux, namun termux bisa bekerja hampir seperti root, termux juga termasuk linux environment.
+
+Saya selaku admin dari situs https://icebear.my.id beranggapan bahwa, anda sudah paham + mengerti tentang apa itu bash, dan apa itu termux, bash ini nantinya akan kita gunakan untuk membuat scrift berbasis sh dengan dukungan atau di jalankan lewat aplikasi terminal termux, 
+
+Cara membuat scrift bash
+Di sini saya akan menjelaskan tentang scrift bash, yang bisa di gunakan untuk mengunci atau termux saat akan login, 
+
+1. Silahkan siapkan terlebih dahulu aplikasi termux, anda bisa mendownload aplikasi termux di playstore, 
+2. Kita akan setting terlebih dahulu aplikasi termux, supaya scrift nya bisa di jalankan, silahkan jalankan perintah terminal berikut, 
+
+$ pkg update && upgrade
+
+Bertujuan untuk meng update dan meng upgrade, package yang ada di termux, intinya supaya memastikan bahwa package nya benar - benar yang terbaru.
+
+$ pkg install bash
+
+Karena di sini kita akan menggunakan bahasa pemrograman bash, jadi kita harus menginstall package bash nya terlebih dahulu, bertujuan supaya bisa menjalankan scrift yang kita buat nantinya, 
+
+$ pkg install nano
+
+Di sini kita akan membuat sebuah scrift, jika akan mengetik atau mengoding sebuah scrift, kita memerlukan yang namanya tools nano ini, silahkan ikuti perintah di atas dan jalankan di termux untuk mendownload atau menginstall tools nya.
+
+3. Selanjutnya kita akan membuat sebuah file dengan format .sh, untuk membuat file nya silahkan ikuti tutorial berikut ini, 
+
+Cara membuat folder dan file di termux
+File dan folder termux, di sini berperan sangat penting, diharapkan di simak, supaya tidak terjadi kesalah pahaman, 
+
+Membuat Folder Di Termux
+• buka aplikasi termux jika belum di install silahkan install terlebih dahulu aplikasi termux di playstore, 
+• kemudian untuk membuat sebuah folder, silahkan jalankan perintah berikut ini, 
+
+$ mkdir nama
+
+Ubah "nama" Dengan nama folder yang anda inginkan, contoh "mkdir belajar_bash" Untuk mengetahui apakah folder nya sudah di buat atau belum silahkan jalankan perintah berikut,
+Note: Perlu di perhatikan untuk nama, usahakan jangan menggunakan spasi, karena jika menggunakan spasi, nantinya akan menjadi dua folder.
+
+
+$ ls
+
+Jika muncul nama folder yang sudah anda buat tadi, itu berarti kita sudah, berhasil membuat folder nya, nah kurang lebih contohnya seperti berikut ini, 
+
+Membuat File Di Termux
+• untuk membuat file dan memasukannya ke folder, silahkan ketikan perintah berikut, sebelum membuat file, 
+
+$ cd nama folder
+
+Dengan begitu anda sudah berada di dalam folder yang sudah anda buat tadi, selanjutnya silahkan buat file, 
+• Buka Aplikasi Termux, Kemudian jalankan perintah berikut untuk membuat sebuah file, 
+
+$ touch nama.sh
+
+Seperti yang sudah saya jelaskan di atas, ubah "nama" Dengan nama file yang anda inginkan.
+Note: karena di sini kita membuat scrift, dengan bahasa pemrograman bash, berarti format nya adalah .sh
+
+Kemudian kita akan mengubah nya menjadi executetable, silahkan jalankan perintah berikut, 
+
+$ chmod 777 nama.sh
+
+Ganti "nama.sh" Dengan file yang sudah anda buat sebelumnya, jika berhasil makan teks nya akan menjadi berwarna hijau, kurang lebih contohnya seperti berikut ini, 
+
+4. Nah sekarang kita akan masuk ke dalam proses membuat scrift nya, untuk membuat scrift di file yang sudah kita buat tadi silahkan, masukan perintah berikut
+
+$ nano nama.sh
+
+Nah di sini kita tahu bahwa kegunaan nano, adalah untuk mengetik an scrift nantinya, jika terjadi eror itu bisa jadi karena anda belum menginstall package nano, oleh karena itu silahkan install terlebih dahulu seperti yang sudah saya jelaskan di atas, 
+
+Scrift User Login
+Berikut ini scrift login yang sudah saya buat, silahkan di cermati, dan perhatikan baik-baik.
+#! /bin/bash
+#Login_User
+
+#Kode Warna
+MERAH="\033[31;1m"
+HAPUS="\033[0m"
+HIJAU="\033[0;36m"
+BIRU="\033[32;1m"
+
+#Scrift
+echo -e $MERAH
+figlet -tc "LOGIN" | lolcat
+echo -e $HAPUS
+echo -e $BIRU
+read -p "[+] Siapa Nama Anda? : " aing
+echo -e $HAPUS
+echo -e "${HIJAU}===================="
+echo -e "Selamat Datang" $aing
+echo -e "====================${HAPUS}"
+sleep 1
+echo -e $BIRU
+pwd="1078"
+until [ "$asw" = "$pwd" ]
+do
+read -p "[+] Masukan Password Pemilik : " asw
+done
+sleep 2
+echo "--------------------"
+echo "Login Successfully ✔"
+echo "--------------------"
+sleep 1
+Keterangan :
+
+#! /bin/sh = Memberitahu sistema bahwa ini adalah programan bash
+# = Bertujuan memudahkan anda membaca, namun tidak akan di baca oleh sistem
+
+MERAH="\033[31;1m"
+HAPUS="\033[0m"
+HIJAU="\033[0;36m"
+BIRU="\033[32;1m"
+
+= Adalah kode warna, yang berfungsi mewarnai teks nantinya, 
+echo = Bertujuan Untuk Menampilkan teks ke layar
+sleep = Jeda dengan waktu yang ditentukan
+1078 = Ganti Dengan Password Yang anda Inginkan
+
+Untuk yang lainnya silahkan cermati, sendiri, saya yakin anda pasti paham, atau mungkin akan saya lanjutkan lagi penjelasan scrift bash nya, di next artikel.
+
+Scrift Daftar List
+Scrift Ini Akan Berjalan, Sesuai Dengan Yang Tersedia Di List, Scrift Ini Akan Di Jalankan Dengan Memilih List Yang Tersedia.
+
+Berikut ini scrift daftar list sederhana yang sudah saya siapkan, 
+#!/bin/sh
+#Scrift_List
+
+#Kode Warna
+MERAH="\033[31;1m"
+HAPUS="\033[0m"
+HIJAU="\033[0;36m"
+BIRU="\033[32;1m"
+
+#membersihkan layar
+clear
+
+#header
+echo $MERAH
+figlet -tc "Tools" | lolcat
+echo $HAPUS
+
+#Scrift
+echo $HIJAU
+read -p "Siapa Nama Anda? : " nama
+sleep 2
+echo "Selamat Datang" $nama
+echo $HAPUS
+sleep 1
+echo $BIRU
+echo "Menampilkan List... "
+echo "-----------------------------------------"
+echo "[1] Update dan Upgrade Package"
+echo "[2] Exit"
+echo "-----------------------------------------"
+echo $HAPUS
+
+sleep 2
+echo $HIJAU
+read -p "Masukan Pilihan Anda : " pilih
+if [ $pilih = "1" ] ;then
+pkg update
+pkg upgrade
+sleep 2
+echo $MERAH
+echo "---------------------------"
+echo " Proses selesai ✔"
+echo "---------------------------"
+echo $HAPUS
+sleep 2
+elif [ $pilih = "2" ] ;then
+exit
+echo $HAPUS
+else
+echo $MERAH
+echo "Harap Masukan input Dengan Benar"
+fi
+ Keterangan nya hampir sama dengan yang di atas karena dua dua nya menggunakan bahasa pemrograman bash.
+
+Kesimpulan
+Nah itu tadi cara membuat scrift login termux dan juga scrift list, yang bisa berjalan ketika di pilih, sebelumnya saya minta maaf jika tidak di jelaskan secara rinci karena, saya rasa sudah terlalu panjang, artikel yang saya buat ini, mungkin di next artikel akan saya buatkan, semua penjelasannya dari awal.
