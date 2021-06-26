@@ -1,0 +1,13 @@
+TicWatch E3 diumumkan dengan Wear 4100 SoC dan label harga yang wajar
+==============================
+icWatch E3 diumumkan dengan Wear 4100 SoC dan label harga yang wajar
+
+Mobvoi TicWatch 3 Pro diumumkan pada bulan Desember tahun lalu dengan banyak fitur keren tetapi juga cukup besar dan agak mahal. Sekarang perusahaan mengungkapkan TicWatch E3 yang didukung oleh OS Wear - versi 3 Pro yang lebih ringan untuk mengatasi keduanya.
+
+E3 melewatkan fungsi dual-display, mengadopsi layar 1,3" yang lebih ringkas dan menampilkan sel 380 mAh yang lebih kecil. Akibatnya, E3 akan terasa lebih nyaman di pergelangan tangan. Namun, Qualcomm Wear 4100 SoC yang kuat dipasangkan dengan 1GB RAM dan penyimpanan internal 8GB tetap terpasang.
+
+Sensor untuk saturasi oksigen darah, VO2Max, akselerometer, giroskop, GPS, dan NFC juga masih terpasang. Speaker dan mikrofon juga tersedia.
+
+Muncul dalam tiga warna garis yang berbeda - hitam, kuning dan biru. Sasis terbuat dari plastik, yang membantu menurunkan berat menjadi hanya 32g. E3 mulai $ 100 lebih rendah dari saudaranya yang lebih besar - $ 199 - dan sudah tersedia untuk dipesan
+
+https://www.hexablog.tech/2021/06/ticwatch-e3-diumumkan-dengan-wear-4100.html
