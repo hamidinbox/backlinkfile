@@ -1,0 +1,43 @@
+Teknologi Server Pada Linux Debian
+==============================
+Teknologi pada masa kini sangatlah maju, bahkan kita sudah memasukki dimana industri 4.0. Industri 4.0 Sendiri merupakan industri teknologi yang sangat maju, diantara lain terdapat teknologi teknik otomatisasi, komputer, internet, IOT, AI (artificial intelligence) dan masih banyak lagi.
+
+<br /><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-QVQ3NVe9810/YPUd0eu9E9I/AAAAAAAACeU/fK_slq7dxnQe71rH3jCbzH0pHWiYwRHYgCNcBGAsYHQ/s1280/Teknologi%2BServer%2BPada%2BLinux%2BDebian.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Teknologi Server Pada Linux Debian" border="0" data-original-height="720" data-original-width="1280" src="https://1.bp.blogspot.com/-QVQ3NVe9810/YPUd0eu9E9I/AAAAAAAACeU/fK_slq7dxnQe71rH3jCbzH0pHWiYwRHYgCNcBGAsYHQ/s16000/Teknologi%2BServer%2BPada%2BLinux%2BDebian.jpg" title="Teknologi Server Pada Linux Debian" /></a></div><br />
+
+Mengenai Server dan Client merupakan sebuah konsep dari layanan yang saling terhubung.<br />
+
+Server sendiri merupakan sistem komputer, sistem komputer ini memiliki banyak layanan di dalam nya. Contoh seperti Layanan untuk penyimpanan Data, biasanya menggunakan server diantara lain FTP Server, MySQL Server, Samba Server, Proxy Server, dan masih banyak lainnya.<br /><br />
+
+Client merupakan sebutan untuk komputer yang menggunakan layanan dari Server, contoh, jika client ingin menggunakan layanan Transfer File maka, Server yang sudah aktif, akan langsung memberikan layanan yaitu FTP Server.  Selain itu jika kita menggunakan layanan web, seperti hal nya blog. Disitu server menggunakan service dari Apache Server pastinya.<br />
+
+Berikut ini kita akan membahas sekilas mengenai Teknologi Server Pada Linux Debian.<br />
+
+Teknologi Server pada Linux Debian beberapa diantara yang umum yaitu : <br />
+
+- SSH Server (Remote Server )<br />
+- DHCP Server (Dynamic Host Configuration Protocol)<br />
+- FTP Server (File Transfer Protocol)<br />
+- Samba Server (File Server)<br />
+
+Mari kita bahas sekilas dari jenis-jenis server yang sudah di sebutkan tadi :<br />
+
+1. SSH Server<br />
+SSH Server merupakan kepanjangan Secure Shell merupakan protokol jaringan kriptografi, yang digunakan untuk melakukan remote dengan menggunakan login, biasanya SSH Server digunakan untuk mengkontrol perangkat dari jarak jauh.<br />
+
+2. DHCP Server <br />
+DHCP Server merupakan kepanjangan dari Dynamic Host Configuration Protocol, Server ini memiliki fungsi memberikan Konfigurasi Protokol secara otomatis kepada client. Yang DHCP Server berikan ini adalah Konfigurasi IP Address, DNS, Informasi jaringan dan lainya.<br />
+
+3. FTP Server<br />
+FTP Server merupakan kepanjangan dari File Transfer Protocol, Server ini sering digunakan untuk melakukan proses perpindahan file ke server client, dan manajemen File.<br />
+Biasanya untuk menggunakan layanan FTP Server, kita bisa menggunakan aplikasi FileZilla Client. Dengan cara login sesuai dengan username dan password oleh server.<br />
+
+4. Samba Server<br />
+Samba Server ini bersifat perangkat lunak yang open source. Samba Server jika di Windows ini seperti dengan sharing file menggunakan LAN ataupun Nirkabel. Dengan Cara memanggil IP Address. (\\ipaddress).<br />
+
+Samba Server ini menggunakan protokol SMB (Server Message Block) yang artinya samba server ini merupakan aplikasi yang digunakan untuk berbagi sumber daya. Sumber daya disini maksudnya adalah file file yang akan di share oleh Samba Server ini.<br />
+
+Untuk mengakses samba server pada linux bisa menggunakan perintah smb://ipaddress.<br />
+
+Mengenai Server Pada Linux Debian lainya, teman-teman bisa mengunjungi <a href="https://awonapa.com" target="_blank">https://awonapa.com</a>, website ini cukup banyak membahas mengenai Linux Server, Website dan Administrasi Sistem Jaringan.<br />
+
+Terimakasih sudah berkunjung. Semoga artikel ini bermanfaat untuk kita semua.<br />
