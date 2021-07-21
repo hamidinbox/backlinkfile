@@ -1,0 +1,49 @@
+Menghapus File Sampah di Windows
+==============================
+Menghapus File Sampah di Windows
+
+Mari kita bersih-bersih file sampah dulu, buanglah sampah pada tempatnya, agar tidak kontor dan tercecer dimana-dimana, apalagi kalau sampah plastik kan bahaya.
+
+Bicara tentang sampah, sekarang waktunya kita bersihkan sampah di PC kita gunakan saat ini. Lantas bagaimana caranya menghapus file sampah di PC?
+
+Cara yang akan kita bahas adalah menghapus sampah tanpa menggunakan software tambahan, jadi kita akan menggunakan fitur yang ada pada sistem operasi. Buat kamu yang penasaran bagaimana caranya, yuk langsung saja kita bahas dibawah ini.
+
+
+
+1. Pertama masuk ke jendela Run (windows + R) dan ketikan %temp% kemudian Enter. Disini kita dapat melihat file sampah yang sudah menggunung karena kita lupa untuk memantaunya. Select All kemudian Delete
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Langkah selanjutnya masuk ke jendela Run, ketikan temp, dan pilih Countinue dan hapus file sampah yang terlihat
+
+
+
+
+
+
+
+3. Langkah terakhir masuk lagi ke jendela Run, lalu ketikan Prefecth. Countinue dan hapus file sampah yang ada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Woke, itulah langah sederhana yang bisa kita lakukan untuk menghapus file sampah pada windows. Cara ini adalah cara yang paling mudah dan tidak perlu menginstall software tambahan.
