@@ -1,0 +1,6 @@
+Teknik Screenshoot di HP Samsung
+==============================
+<h3>Share this image on your site:</h3>
+<textarea readonly onclick='this.focus();this.select()' style="margin:0px; padding: 5px; max-width: 100%; height: 100px; width: 720px;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBzxFB5V3BTZdHQH5ZheBDakJrpzBileBHoljpqGJ4-HmkDA&s" width="100%" alt="Screenshoot">
+<a href="https://bukailmu.com">
+</a><p><strong>Screenshoot</strong>, courtesy of <a href="https://bukailmu.com">Bukailmu</a></p></textarea>
