@@ -1,0 +1,43 @@
+Cara Kerja Mobil Masa Depan Produksi Google
+==============================
+<img class="aligncenter size-medium" src="https://1.bp.blogspot.com/-NjL-1K5m8CU/YPsTiNJW5iI/AAAAAAAAAVI/ueyn5nF8p3AebKK01P-YWpKPdwT6QtrEACLcBGAsYHQ/s0/mobil%2Bmasa%2Bdepan%2Bproduksi%2Bgoogle.jpg" alt="mabil masa depan produksi google" width="1500" height="843" />&nbsp;
+
+Jauh sebelumnya, ini merupakan proyek rahasia para insinyur google dalam upaya menciptakan mobil masa depan Google yang bisa dikemudikan tanpa campur tangan manusia. Mobil ini telah mengalami uji coba di jalan umum dan, pada satu kesempatan mengajak orang untuk naik di dalam salah satu mobil masa depan google saat melaju di sekitar jalan tertutup.&nbsp;
+
+Armada robot Toyota Prius Google kini telah menempuh jarak lebih dari 190.000 mil (sekitar 300.000 kilometer), mengemudi di lalu lintas kota, jalan raya yang sibuk, dan jalan pegunungan dengan hanya sesekali campur tangan manusia. Proyek ini masih jauh dari layak secara komersial, tetapi Google telah menyiapkan sistem demonstrasi di kampusnya, menggunakan kereta golf tanpa pengemudi, yang menunjukkan bagaimana teknologi dapat mengubah transportasi bahkan dalam waktu dekat.&nbsp;
+
+Profesor Universitas Stanford Sebastian Thrun, yang memimpin proyek mobil masa depan, dan insinyur Google Chris Urmson membahas ini dan detail lainnya dalam sebuah keynote di Konferensi Internasional IEEE tentang Robot dan Sistem Cerdas di San Francisco bulan lalu.&nbsp;
+
+Thrun dan Urmson menjelaskan bagaimana mobil masa depan bekerja dan menunjukkan video tes jalan, termasuk cuplikan dari apa yang komputer on-board "lihat" [gambar di bawah] dan bagaimana mendeteksi kendaraan lain, pejalan kaki, dan lampu lalu lintas.&nbsp;
+
+Google telah merilis detail dan video proyek sebelumnya, tetapi ini adalah pertama kalinya saya melihat beberapa cuplikan ini—dan ini sangat mengesankan. Itu benar-benar mengubah pandangan saya tentang keseluruhan proyek, yang dulu saya anggap agak tidak masuk akal. Sekarang saya pikir teknologi ini benar-benar dapat membantu untuk mencapai beberapa tujuan yang ada di depan mata Thrun: Mengurangi kecelakaan di jalan raya, kemacetan, dan konsumsi bahan bakar.&nbsp;
+
+Urmson, sebagai orang nomer satu dalam proyek tersebut, mengatakan bahwa mobil robot yang sedang digarap sangan mengandalkan teknologi laser yang penempatannya tidak menggangu kabin mobil itu sendiri. Adaapun alat yang digunakan saat ini adalah laser 64-beam Velodyne, yang dalam pengembanganya bisa menangkap gambaran lingkungan sekitar dengan tepat dan terperinci.&nbsp;
+
+Sistem atau perangkat lunak mobil memadukan hasil pemindaian laser dengan sistem maps milik google. Perpaduan keduanya memproduksi data realtime hingga mobil dapat mengemudi sendiri dengan aman tanpa harus terkendala dengan rintangan.&nbsp;
+
+Mobil ini juga dibekali dengan beberapa sensor canggih, secara detil mobil ini membawa empat sensor, yang tersemat pada bumper baik didepan ataupun buritan mobil, sensor ini mampu "menggambarkan" kepadatan lalu lintas secara akurat. Selain itu ada juga kamera dengan resolusi tinggi dengan fungsi utama mendeteksi keberadaan lampu lalu lintas; dan GPS.&nbsp;
+
+Yang patut diapresiasi dari teknologi ini adalah bagaimana mobil bisa bergerak sesuai dengan ruas dan medan dengan sangat cerma, ini menjadi hal baru sebagai cara terbaik menentukan akurasi mobil saat melaju di jalan umum. Pasalnya mobil ini tidak bisa mengandalkan data GPS yang sewaktu waktu bisa saja tidak akurat walau hanya beberapa sentimeter.&nbsp;
+
+Selain itu, mobil masa depan produksi google ini telah mengalami pemeriksaan secara mendetil oleh teknisi Google. Para insinyur mencoba mengemudikan mobil di beberapa ruas jalan demi mendapatkan data tentang daerah yang dilewati. Saat menguji mobil masa depan produksi google di jalan umum, para insinyur secara hati hati mengkomparasi data yang diperoleh saat pengujian langsung dengan database yang dimiliki pada uji beberapa bulan yang lalu,  ini semata mata dilakukan agar mobil masa depan produksi google ini bisa membedakan mana objek bergerak seperti manusia atau benda mati seperti tiang dan tong sampah.&nbsp;
+
+Sebelum Anda melanjutkan membaca artikel ini, ada baiknya mengunjungi website jasa rental mobil terbaik di Jakarta dan sekitarnya melalui situs <a href="https://nabhanrentcar.com/">www.nabhanrentcar.com</a>. Website ini menyediakan berbagai mobil yang bisa anda sewa untuk berbagai keperluan perjalanan.&nbsp;
+
+Saat melewati perempatan empat arah, misalnya, akan mengalah pada kendaraan lain berdasarkan aturan lalu lintas; tetapi jika mobil lain tidak membalas, ia akan maju sedikit untuk menunjukkan niatnya kepada pengemudi lain. Tanpa memprogram perilaku seperti itu, kata Urmson, mustahil bagi mobil robot untuk mengemudi di dunia nyata.&nbsp;
+
+Jelas, para insinyur Google sedang bersenang-senang (maju cepat ke 13:00 untuk melihat Urmson menyeringai saat mobil melaju melewati tempat parkir Google, ban berdecit di setiap belokan).&nbsp;
+
+Tetapi proyek ini memiliki sisi serius. Thrun dan rekan Google-nya, termasuk salah satu pendiri Larry Page dan Sergey Brin, yakin bahwa kendaraan yang lebih cerdas dapat membantu membuat transportasi lebih aman dan lebih efisien: Mobil akan melaju lebih dekat satu sama lain, memanfaatkan 80 persen hingga 90 persen ruang kosong dengan lebih baik. ruang di jalan, dan juga membentuk konvoi cepat di jalan raya.&nbsp;
+
+Mereka akan bereaksi lebih cepat daripada manusia untuk menghindari kecelakaan, berpotensi menyelamatkan ribuan nyawa. Membuat kendaraan lebih pintar akan membutuhkan banyak daya komputasi dan data, dan itulah mengapa masuk akal bagi Google untuk mendukung proyek tersebut, kata Thrun dalam keynote-nya.&nbsp;
+
+Urmson menggambarkan skenario lain yang mereka bayangkan: Kendaraan akan menjadi sumber daya bersama, layanan yang akan digunakan orang saat dibutuhkan. Anda cukup mengetuk ponsel cerdas Anda, dan mobil otonom akan muncul di tempat Anda berada, siap mengantar Anda ke mana pun. Anda hanya akan duduk dan bersantai atau bekerja.&nbsp;
+
+Dia mengatakan mereka membuat video yang menunjukkan konsep yang disebut Caddy Beta yang menunjukkan ide kendaraan bersama—dalam hal ini, armada kereta golf otonom. Dia mengatakan kereta golf jauh lebih sederhana daripada Prius dalam hal sensor dan komputer on-board. Bahkan, gerobak berkomunikasi dengan sensor di lingkungan untuk menentukan lokasi mereka dan "melihat" lalu lintas yang masuk.&nbsp;
+
+“Ini salah satu cara kita melihat ke depan teknologi ini bisa. . . sebenarnya membuat transportasi lebih baik, lebih efisien,” kata Urmson.&nbsp;
+
+Untuk sementara lupakan dulu mobil masa depan Produksi Google yang sampai saat ini belum di jual secara komersial. Bila anda hendak merasakan bagaimana mobil bergerak tanpa anda kemudikan cukup menggunakan layanan rental mobil dengan jasa supir dari Nabhan Rent Car.
+
+&nbsp;
