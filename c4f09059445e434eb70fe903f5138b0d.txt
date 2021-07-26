@@ -1,0 +1,13 @@
+cara membuat subdomain blogger di cloudflare
+==============================
+Cara membuat subdomain di Cloudflare
+Langkah 1 : Masuk ke akun cloudflare kamu dan pilih domain kamu.
+
+Langkah 2 : Tekan DNS Pilih CNAME Isi Nama dan Target jangan lupa aktifkan Proxy Cludlfare supaya ssl nya tidak GTS CA, Contoh nya seperti ini. ost.suyachan.my.id
+
+Cara memasang ssl cloudflare untuk subdomain
+Langkah 1 : Masuk ke akun cloudflare kamu dan pilih domain kamu.
+
+Langkah 2 : Cari SSL/TLS kemudian Klik Edge Certificates 
+
+Source: www.suyachan.my.id
