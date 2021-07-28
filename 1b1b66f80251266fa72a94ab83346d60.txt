@@ -1,0 +1,35 @@
+Tutorial Cara Update Aplikasi Zoom
+==============================
+Tutorial Cara Update Aplikasi Zoom – Zoom yaitu salah satu aplikasi video conference yang banyak sekali digunakan saat ini. Aplikasi ini dinilai dapat mendukung komunikasi digital kala menjalankan work from home ditengah situasi pandemi Covid-19. Aplikasi ini secara teratur mengupdate versi terbarunya untuk memperbaiki kerusakan dan bug serta merilis beberapa fitur tambahan. Untuk menghindari permasalahan teknis selama penggunaan Zoom, sebaiknya pengguna rutin melakukan update versi terbaru Zoom. Sebenarnya untuk melakukan update aplikasi zoom di hp, laptop maupun komputer itu sangat mudah dilakukan oleh siapa saja. di sini kami telah membuat beberapa cara untuk update aplikasi zoom di HP, Laptop atau Komputer dengan mudah dan cepat.
+
+Dalam tutorial ini kita akan mengulas informasi mengenai Tutorial Cara Update Aplikasi Zoom Di HP Dan Laptop/Komputer ada beberapa hal yang harus Anda ketahui sehingga untuk kedepannya Anda tidak akan bingung saat update aplikasi zoom di HP, Laptop atau Komputer Anda. Untuk lebih jelasnya ikuti langkah dibawah ini bagaimana cara update di HP, Laptop atau Komputer dengan sangat mudah yang wajib anda ketahui untuk itu simak caranya berikut ini :
+Tutorial Cara Update Aplikasi Zoom
+
+1. Update Melalui Notifikasi Pop-up Bar
+Notifikasi Pop-up pemberitahuan ini akan muncul di Aplikasi Zoom Desktop (Laptop/komputer) setiap kali Zoom merilis versi terbarunya, biasanya muncul setiap kali anda menghidupkan Laptop atau Komputer.
+Cara update zoom melalui notifikasi pop-up bar :
+
+1. Klik notifikasi pop-up bar nya
+2. Baca atau pahami syarat dan ketentuannya (Terms and Condition)
+3. Klik Update, lalu biarkan aplikasi mengunduh versi zoom terbaru, lalu tunggu proses update zoom sampai selesai.
+
+Tutorial Cara Update Aplikasi Zoom
+
+2. Update Melalui Website Resmi Zoom
+Bagi pengguna yang belum memiliki aplikasi Zoom di desktop, Anda bisa mengunduh versi terbarunya melalui website resmi Zoom. Aplikasi ini dapat di unduh langsung dengan cara:
+
+1. Ketik https://zoom.us/download pada tab pencarian browser
+2. Ada berbagai pilihan jenis aplikasi untuk Windows, Mac OS dan Linux sesuaikan dengan sistem operasi yang anda pakai di laptop/komputer. Pilih salah satu sesuai dengan kebutuhan
+3. Klik download dan secara otomatis pengguna memiliki versi terbaru dari Aplikasi Zoom.
+
+Baca Juga  : <a href="https://mubatekno.com/2021/07/23/cara-install-composer-di-linux/">Cara Install Composer Di Linux</a>
+
+Untuk memeriksa apakah update sudah berhasil atau Zoom yang dimiliki adalah versi terbaru, pengguna dapat melakukan Klik Profile, Lalu Klik Check for Updates, lalu akan muncul pop up yang bertuliskan “You are up to date” jika versi Zoom yang dimiliki adalah versi terbaru. Namun, jika unduhan gagal atau aplikasi Zoom yang dimiliki masih belum versi terbaru, akan muncul pop up yang berisi Terms and Condition dan saran untuk update ke versi terbaru.
+tutorial cara update zoom
+
+ 3. Update Melalui Profile Zoom
+Cara ini dapat anda lakukan jika anda salah download versi zoom atau ingin mengupdate melalui aplikasi zoom, Profile menyimpan berbagai fitur termasuk untuk mengupdate dan memeriksa versi update. Cara mengupdate melalui profile adalah: 
+
+1. Pertama-tama buka aplikasi zoom, Lalu Klik Profile (pojok kanan atas)
+2. Klik Check for Updates, lalu akan muncul pop up yang berisi Terms and Condition.
+3. Setelah mempelajari syarat dan ketentuannya, klik Update dan biarkan aplikasi mengunduh versi terbaru sampai selesai.
