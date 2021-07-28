@@ -1,0 +1,37 @@
+Peluang Kerja Lulusan Teknik Informatika
+==============================
+<a href="https://mubatekno.com/2021/07/25/peluang-kerja-lulusan-teknik-informatika/">Peluang Kerja Lulusan Teknik Informatika</a> - Banyak yang bertanya kalo lulusan teknik informatika itu jadi apa...?, Sebelumnya kita harus tau dulu Apa Itu Teknik Informatika, yaitu merupakan salah satu bidang ilmu komputer yang mempelajari bagaimana menggunakan teknologi secara optimal agar dapat menangani masalah transformasi atau pengolahan data dengan proses logika.
+
+<img src="https://mubatekno.com/wp-content/uploads/2021/07/cover.jpg" alt="7 Peluang Kerja Lulusan Teknik Informatika">
+
+Selama kuliah atau menempuh pendidikan di jurusan teknik informatika kamu akan banyak mengenali tentang bahasa pemrograman dan komputasi. Tentunya kamu akan dibekali dengan keterampilan merancang suatu sistem perangkat lunak. Jadi, selama menempuh pendidikan jurusan teknik informatika kamu akan dibekali dengan ilmu dan keterampilan untuk pengembangan perangkat lunak.
+
+Dalam perkuliahan jurusan teknik informatika sehari-hari, kamu akan mempelajari bahasa pemrograman, kecerdasan buatan (AI), database, jaringan komputer dan multimedia. Selain itu, kamu pun akan belajar bagaimana memecahkan berbagai masalah komputasi, seperti menganalisis web, membuat jaringan komputer sederhana, manajemen, menciptakan sistem keamanan, dan masih banyak lainnya.
+
+Beberapa mata kuliah yang akan kamu pelajari di jurusan Teknik Informatika antara lain seperti Algoritma, Struktur Data, Pemrograman Berorientasi Objek, Komputasi Numerik, Sistem Basis Data, Organisasi Komputer, Manajemen Basis Data, Kecerdasan Buatan, Sistem Operasi, Analisis dan Perancangan Sistem Informasi, Kecerdasan Komputasional, Manajemen Proyek Perangkat Lunak, Pemrograman Web, Keamanan Informasi dan Jaringan, Rekayasa Perangkat Lunak, dan sebagainya.
+
+Bidang informatika menarik untuk dipelajari dan berpotensi sangat menghasilkan apalagi jika kamu memang tertarik atau suka dengan teknologi maka jurusan teknik informatika sangat cocok untuk kamu, kamu dapat berkarya dan menghasilkan sebuah teknologi. Dengan adanya informatika secara tidak langsung telah meningkatkan taraf kehidupan manusia menjadi lebih modern, selain itu dengan teknik informatika kamu dapat menciptakan sesuatu yang bermanfaat bagi orang banyak.
+
+Dengan meningkatnya permintaan tenaga kerja professional dalam bidang informatika, Kita sebagai pribumi atau tenaga kerja lokal harus bisa bersaing dan mempunyai kompetensi agar tidak tertinggal apalagi tergantikan dengan tenaga kerja asing, Berikut ini beberapa peluang kerja lulusan teknik informatika.
+
+Peluang Kerja Lulusan Teknik Informatika
+
+1. Programmer atau Developer
+
+Yang pertama dan paling populer sebagai peluang kerja lulusan teknik informatika adalah sebagai Programmer/Developer, dengan menjadi programmer atau developer kamu mempunyai jobdesk seperti membuat atau mengembangkan suatu ide menjadi teknologi berupa sistem atau aplikasi yang dapat berjalan di platform seperti web, desktop maupun mobile.
+
+2. System Administrator
+
+System Administrator, adalah salah satu profesi yang memiliki tugas untuk melakukan manajemen administrasi terhadap sistem, melakukan pemeliharaan sistem, dan sebagainya yang berhubungan dengan pengaturan operasional sebuah sistem. Biasanya system administrator sering bergelut dengan server dalam struktur organisasi kerja system administrator biasanya masuk ke dalam departemen atau divisi teknologi dan informasi.
+
+3. UI/UX Designer
+
+Selanjutnya dalam peluang kerja lulusan teknik informatika adalah UI/UX Designer, Apa itu ui dan ux designer, Meskipun UI dan UX Designer seringkali disatukan namun pada kenyataannya memiliki peranan serta jobdesk yang berbeda-beda. UI Designer yaitu kependekkan dari User Interface. UI mencakup aspek visual yang ditampilkan pada website maupun aplikasi mobile seperti menu, tulisan, tata letak, tombol, warna hingga tipografi, Sedangkan UX Designer merupakan kependekan dari User Experience. UX designer yaitu seseorang yang bertanggung jawab untuk kepuasaan pengguna (user) dan pengalaman yang lebih baik dalam menggunakan produk yang telah dikembangkan.
+
+4. Database Engginer
+
+Selanjutnya ada Database Engginer, juga merupakan salah satu profesi yang populer dalam dunia IT database engginer juga sering berkutat dengan server khususnya server database, Maka dari itu seorang database engginer harus paham betul mengenai bahasa struktur database atau Structure Query Language (SQL) agar mudah dalam melakukan menajemen terhadap database yang dikelola.
+
+5. System Analyst
+
+System Analyst, merupakan seseorang yang berperan utama dan bertanggung jawab atas penelitian, perencanaan, pengkoordinasian, dan merekomendasikan pemilihan perangkat lunak atau sistem yang paling sesuai dengan kebutuhan organisasi bisnis atau perusahaan. Analis sistem memegang tupoksi yang teramat sangat penting dalam proses pengembangan sistem baik untuk jangka pendek maupun jangka panjang.
