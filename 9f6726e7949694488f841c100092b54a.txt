@@ -1,0 +1,10 @@
+Pengertian VPS
+==============================
+Pengertian VPS
+Virtual Private Server (VPS) adalah sebuah server virtual pribadi yang keseluruhan teknologi dan kemampuannya digunakan oleh satu pengguna saja, sehingga tak ada pengaruh dari pengguna lain. Berbeda dengan pengguna server bersama (shared hosting), seorang pengguna VPS dapat mengubah berbagai pengaturan dan konfigurasi dari server tersebut sesuai kebutuhannya.
+
+Jika dibandingkan dengan shared hosting, VPS menawarkan kualitas jaringan yang lebih stabil dan aman karena semua resource yang ada pada server hanya dapat diakses oleh satu pengguna saja.
+
+Pada umumnya, VPS sering digunakan oleh pemilik website dengan traffic mengenah-tinggi yang sudah melewati batas yang ditawarkan oleh layanan shared hosting.
+
+Kalian bisa mendapatkan tutorial pembuatan vps disini https://tukangngulik.my.id/
