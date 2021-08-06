@@ -1,0 +1,31 @@
+Cara Mudah Mengatasi Wifi Hotspot HP tidak terkoneksi di Laptop
+==============================
+Halo semua, disini saya akan membagikan tutorial seputar cara menggunakan wifi  dari smartphone android yang mana pastinya banyak kalian gunakan, dan kadang kala kalian pernah mengalami masalah koneksi ke laptop.
+
+Nah, tutorial yang akan saya berikan sangatlah simple dan mudah. Lantas bagaimana caranya? Mari simak bersama Mudah Mengatasi Wifi Hotspot HP tidak terkoneksi di Lapotop.
+
+
+
+1. Pastikan memang jaringan internet yang kamu gunakan stabil di smartphone android kalian
+2. Pastikan juga kuota internet kalian memang cukup untuk melalukan browsing atau koneksikan ke laptop
+3. Pastikan juga nama SSID dan sandi Wifi sudah benar
+
+ 
+
+Nah, jika 3 hal diatas sudah kalian lakukan! Mari kita bahas permasalahan centang di laptop atau tidak dapat tekoneksi ke internet dari wifi smartphone android kalian. Biasanya trouble ini diberitahukan atau ada notifikasi "No Internet Access". Oke simak saja caranya.
+
+
+Mengatasi "No Internet Access di Laptop"
+
+Silahkan ganti SSID atau nama dan sandi yang baru di hotspot HP kalian
+ Aktifkan wifi portable/hotspot kalian. "Gunakan mode WPA2"
+Cek laptop, jika terdapat signal nama Wifi yang telah kalian buat, silahkan koneksikan
+Jika masih ada centang. Silahkan kalian klik kanan pada gambar wifi di taskbar dan pilih "Open Network and Sharing Center"
+Setelah itu kalian akan di arahkan ke Control Panel. Silahkan masuk ke setting TCP/IPv4 Wirelles laptop kalian. Dan masuk ke menu Cara Mudah Mengatasi Wifi Hotspot HP tidak terkoneksi di Laptop
+Klik kanan pada "Wireless Network Connection" dan pilih "Properties" pada menu network. Double Klik pada "Pilih Internet Protocol versi 4"
+Selanjutnya pilih "Obtain IP Address Automatically" dan "Obtian DNS Address Automatically", selanjutnya klik OK. Selanjutnya kembali ke menu "Change Adapter Setting" (langkah ini dimaksudkan agar Wifi hotspot dapat otomatis memilih IP dan DNS yang ada di HP kalian. Sehingga tidak perlu menggunakan IP dan DNS secara manual atau yang tidak sesuai dengan IP dan DNS yang diberikan)
+Klik Kanan pada "Wireless Network Connection" dan pilih "Disable" tunggu beberapa saat dan selanjutnya doubel klik untuk mengaktifkan atau "Enable"
+Untuk tahap ini, kalian akan melihat network wireless dari hotspot kalian di laptop dapat terkoneksi dan tanda peringatan akan hilang
+
+
+Demikian tutorial Cara Mudah Mengatasi Wifi Hotspot HP tidak terkoneksi di Laptop. Semoga dengan adanya infromasi ini dapat membantu kalian.
