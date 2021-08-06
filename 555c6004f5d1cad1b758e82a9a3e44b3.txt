@@ -1,0 +1,34 @@
+Cara menghilangkan iklan pada aplikasi bawaan MIUI handphone Xiaomi
+==============================
+User Interface (UI) menjadi salah satu hal yang cukup penting dan perlu hadir pada sebuah handphone, guna memaksimalkan tampilannya.
+
+Salah satunya adalah User Interface milik Xiaomi yang bernama "MIUI", UI ini cukup banyak di sukai orang-orang Karena tampilannya yang menarik, kekinian dan mudah untuk di gunakan.
+
+Sayangnya UI ini memiliki sedikit kekurangan salah satunya adalah <b>Terdapat Iklan pada aplikasi bawaannya</b>.
+
+Menurut saya selaku owner dari situs <a href="https://www.ixt.my.id">ixt.my.id</a> hal ini cukup memalukan bagi sebuah perusahaan besar yang telah mendunia, tapi masih menggunakan iklan dari google yaitu Google Adsense.
+
+Sekilas memang seperti kurang profesional, tapi untungnya masalah ini dapat di atasi dengan sangat mudah, bagaimana caranya?
+
+<h2>Berikut cara menghilangkan iklan pada aplikasi bawaan MIUI Xiaomi</h2>
+Tutorial ini akan saya jelaskan secara bertahap, Karena memang harus saya jelaskan aplikasi per aplikasi, jadi cara ini tidaklah instant, tapi saya jamin cara ini sangat mudah.
+
+<h3>1. Menonaktifkan iklan di MSA</h3>
+Cara ini kurang saya rekomendasikan karena memang mungkin dapat mengurangi kinerja Sistem, hal ini tergantung pada selera masing-masing.
+
+Silahkan anda buka aplikasi pengaturan -> klik <b>setelan tambahan</b> -> lalu pilih <b>otorisasi dan pencabutan</b> -> klik <b>MSA</b> -> Nonaktifkan MSA.
+
+<h3>2. Menonaktifkan layanan iklan di pengaturan</h3>
+Silahkan anda buka aplikasi pengaturan Xiaomi anda -> klik menu <b>Sandi dan keamanan</b> -> klik <b>Privasi</b> -> klik <b>Layanan iklan</b> -> Nonaktifkan.
+
+<h3>3. Menghilangkan iklan pada aplikasi File manager</h3>
+Silakan buka aplikasi <b>File Manager</b> bawaan -> tap <b>ikon menu</b> di pojok kiri atas -> Selanjutnya pilih <b>Pengaturan</b> -> lalu pilih <b>Tentang</b> -> Kemudian pilih matikan rekomendasi.
+
+<h3>4. Menghilangkan iklan pada aplikasi Unduhan</h3>
+Buka aplikasi <b>Unduhan</b> -> klik <b>menu</b> -> klik <b>Pengaturan</b> -> klik <b>nonaktifkan</b> tampilkan konten rekomendasi.
+
+<h3>5. Menghilangkan iklan pada aplikasi Mi Video</h3>
+Buka aplikasi <b>Mi Video</b> -> klik bagian <b>akun</b> yang ada di bagian <b>kanan bawah layar</b> -> pilih <b>pengaturan</b> -> klik <b>matikan</b> opsi rekomendasi online.
+
+<h3>6. Menghilangkan iklan pada aplikasi Musik</h3>
+Buka aplikasi <b>Musik</b> -> klik menu bagian kiri atas layar -> kemudian pilih <b>setelan lanjutan</b> -> klik mematikan rekomendasi.
