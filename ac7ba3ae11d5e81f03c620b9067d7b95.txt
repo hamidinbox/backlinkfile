@@ -1,0 +1,95 @@
+Cara mengetahui domain expired
+==============================
+Cara mengetahui Status Domain Expired
+
+Apakah sahabat
+
+sempat bingung apa yang terjalin pada domain Kamu sehabis habis masa aktifnya? Sesungguhnya expired domain memiliki sebagian siklus loh.
+
+Pada postingan kali ini, kami hendak mangulas secara lengkap sebagian siklus yang dilalui suatu expired domain sehabis habis masa aktifnya. Ayo langsung saja kita mulai!
+
+Apa Itu Domain Expired?
+
+Domain expired merupakan domain yang masa aktifnya telah habis. Biasanya, suatu domain mempunyai masa aktif sepanjang satu ataupun 2 tahun, bergantung pada dikala pembelian.
+
+Durasi serta jangka waktu kepemilikan domain hendak didetetapkan oleh owner domain itu sendiri serta pula penyedia domain. Rata- rata, suatu domain mempunyai masa aktif 2 hingga 10 tahun.
+
+Sehabis jangka waktu domain itu terpenuhi, alamat domain Kamu masuk ke status domain expired. Domain yang telah habis masa aktifnya tidak dapat diregistrasi secara langsung.
+
+Biasanya, domain yang telah expired baru dapat didaftarkan kembali sehabis 80 hari ataupun nyaris 3 bulan sehabis masa aktif domain tersebut habis.&nbsp;
+
+Buat itu, bila Kamu mengincar suatu nama domain yang bagus tetapi telah expired, cek kembali apakah domain tersebut telah dapat diregistrasikan sehabis 80 hari.
+
+5 Status Domain Expired
+
+Semacam yang telah dibahas tadinya, domain yang tidak aktif hendak masuk ke sebagian periode tahapan saat sebelum masuk lagi ke list domain available to purchase( domain yang dapat dibeli).
+
+Sebagian tahapan tersebut merupakan active domain, renewal grace period, redemption grace period, pending delete, serta available for registration.
+
+Pada bagian ini kami hendak membagikan penafsiran lengkap tentang siklus ataupun tahapan domain yang expired tersebut. Ayo langsung saja kita amati penjelasannya!
+
+1. Active Domain
+
+Status domain aktif ataupun active domain sesungguhnya tidak masuk ke dalam siklus domain yang expired. Tahapan ini merupakan kala domain yang Kamu beli telah aktif dengan cocok.
+
+Jangka waktu aktif domain pula bermacam- macam, bergantung pada syarat yang telah Kamu sepakati dengan penyedia domain ataupun domain registrar.
+
+Biasanya, rata- rata domain memiliki masa status domain aktif sepanjang 2 hingga 10 tahun. Sehabis masa aktif ini berakhir, domain hendak masuk ke tahapan renewal grace period.
+
+Selaku penyedia domain murah serta bermutu, pula sediakan pembelian bermacam ekstensi domain dengan jangka waktu 1 hingga 10 tahun.
+
+2. Renewal Grace Period( 30- 40 days)
+
+Dikala masa aktif habis serta domain mulai masuk ke siklus domain expired, domain tersebut hendak langsung masuk ke Renewal Grace Period.
+
+Periode ini berlangsung rata- rata sepanjang 30 hingga 40 hari bergantung dari penyedia domain yang Kamu seleksi. Domain yang telah expired ini umumnya hendak diparkir oleh registrar di taman komersial.
+
+Periode renewal grace period pula dapat dikatakan selaku masa tenggang domain. Owner domain masih dapat merenew serta memperpanjang domain tersebut dengan bayaran wajar.
+
+3. Redemption Period( 30 days)
+
+Nah expired domain yang belum diperpanjang hingga masa renewal grace period berakhir, hendak secara otomatis masuk ke periode redemption grace.
+
+Domain yang terdapat di sesi redemption grace period telah dihapus secara manual oleh domain registrar. Domain tidak dapat lagi diakses serta tidak dapat diparkir( parked).
+
+Owner domain masih dapat melaksanakan registrasi ulang domain. Tetapi. bayaran yang dikenakan hendak lebih mahal dibanding bayaran perpanjangan ataupun registrasi domain baru.
+
+Bayaran ini dapat hingga 10 kali lipat harga domain loh. Bergantung dari kebijakan penyedia domain.
+
+Masa redemption period biasanya berlangsung sepanjang 30 hari buat sebagian besar ekstensi domain.
+
+4. Pending Delete
+
+Bila expired domain tidak didaftarkan ulang pada masa redemption period, domain hendak secara langsung masuk ke periode pending delete.
+
+Periode pending delete ialah masa persiapan dimana kepemilikan atas domain tersebut hendak dihapus secara permanen. Nantinya, domain hendak dilepaskan serta dijual secara universal.
+
+Expired domain yang telah masuk ke dalam periode pending delete tidak hendak dapat diperpanjang lagi oleh owner tadinya. Periode ini terjalin sepanjang 5 hingga 7 hari.
+
+5. Available for Registration
+
+Periode expired domain berikutnya merupakan periode available for registration. Di periode ini expired domain jadi domain regular yang dapat diregistrasi serta dibeli seperti domain baru.
+
+Biasanya, periode available for registration hendak terjalin pada hari ketujuh period pending delete. periode ini, nama domain hendak kembali ke pasaran serta seluruh orang dapat membelinya.
+
+Penutup
+
+Nah itu tadi macam- macam siklus yang dilalui suatu domain yang telah tidak aktif. Biasanya, kelima siklus ini hendak terjalin sepanjang 80 hari ataupun 3 bulan semenjak domain tidak aktif.
+
+Buat memudahkan, berikut merupakan rekap pendek dari kelima siklus domain yang sudah expired tersebut:
+
+Active domain— masa aktif domain, biasanya sepanjang 1 hingga 10 tahun.
+
+Renewal grace period— masa pembaruan domain yang berlangsung sepanjang 30 hingga 40 hari.
+
+Redemption grace period— domain masuk dalam masa penghapusan tetapi owner domain masih dapat melaksanakan perpanjangan, dengan bayaran yang lebih mahal.
+
+Pending delete — dimana kepemilikan domain hendak dihapus secara permanen, owner domain lama tidak dapat melaksanakan perpanjangan. Masa waktu 7 hari.
+
+Available for registration — domain yang telah tidak memiliki kepemilikan serta dapat didaftarkan serta dibeli seperti domain baru.
+
+Telah jelas kan, Buat Kamu owner domain, kami sarankan buat melaksanakan pengecekan teratur terhadap status domain.
+
+Yakinkan domain Kamu tidak expired serta pula melebihi masa jatuh tempo renewal supaya Kamu tidak butuh membayar lebih mahal buat melaksanakan redemption maupun kehabisan domain secara permanen.
+
+Mudah- mudahan berguna!
