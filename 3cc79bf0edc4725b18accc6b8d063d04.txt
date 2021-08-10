@@ -1,0 +1,137 @@
+Bagaimana Cara Memperbaiki Aplikasi Windows Dinonaktifkan?
+==============================
+Pelajari cara memperbaiki masalah penonaktifan aplikasi Windows dalam berbagai metode untuk mengaktifkan dan meluncurkan aplikasi yang dinonaktifkan dengan aman. <a href='https://www.idekulogi.com/' rel='dofollow'>Tutorial Windows 10, 11 Selengkapnya</a>
+
+
+
+Apa yang menyebabkan aplikasi Windows dinonaktifkan?
+Dalam penggunaan rutin, beberapa pengguna menghadapi aplikasi yang dinonaktifkan tanpa alasan atau melakukan pembaruan rutin dan beberapa bahkan tidak dapat membuka task manager, cuaca, atau berita.
+
+
+
+Tidak masuk akal bahwa perangkat lunak Anda diblokir secara otomatis. Ini juga memiliki beberapa alasan umum yang dapat menyebabkan masalah penonaktifan aplikasi Windows, seperti:
+
+
+
+1. Kesalahan drive
+Ada banyak hal yang dapat menyebabkan kesalahan drive, yang mungkin juga tidak memungkinkan Anda untuk membuka drive. Kesalahan drive dapat menyebabkan korupsi data yang dapat gagal membaca data, dan kemudian saat program diluncurkan, dokumen yang diperlukan akan hilang, sehingga aplikasi Anda tidak dapat berjalan dengan sukses.
+
+
+
+2. Pembaruan Windows
+Berdasarkan beberapa umpan balik pengguna, beberapa aplikasi menemui masalah yang dinonaktifkan setelah peningkatan sistem Windows 11, setengah dari semua aplikasi dinonaktifkan, bahkan Store tidak dapat dibuka.
+
+
+
+3. Ketidakcocokan
+Jika beberapa program Anda tidak dapat dijalankan setelah pembaruan Windows atau pembaruan program, kemungkinan alasannya adalah ketidakcocokan. Jika dipaksa untuk memulai, stabilitas dan kinerja komputer mungkin terpengaruh. Terkadang ini termasuk aplikasi untuk versi Windows sebelumnya (termasuk versi Windows 10 sebelumnya). Saat Anda mencoba membukanya, Anda akan menerima pesan yang menyatakan bahwa aplikasi atau game tidak dapat berjalan di perangkat Anda.
+
+
+
+4. Firewall Anti-virus
+Firewall Anda akan memblokir beberapa perangkat lunak yang dianggap berbahaya dan beberapa perangkat lunak ilegal.
+
+
+
+Bagaimana cara mengaktifkan aplikasi yang dinonaktifkan di Windows 11 dan 10?
+Seperti yang ditunjukkan konten di atas, berbagai alasan dapat memicu masalah penonaktifan aplikasi Windows. Oleh karena itu, kami mencantumkan beberapa solusi universal bagi Anda untuk mengaktifkan aplikasi yang dinonaktifkan di Windows 11.
+
+
+
+1. Periksa dan perbaikan drive
+Kami menempatkan metode ini sebagai yang pertama karena ketika aplikasi Windows dinonaktifkan, hal pertama yang perlu Anda lakukan adalah menghilangkan kesalahan drive yang menyebabkan masalah. Namun, begitu datang ke drive, banyak orang mulai merasa kewalahan. Kita semua tahu drive sangat penting untuk komputer, karena mungkin saja merusak komputer Anda jika tidak dioperasikan dengan benar.
+
+
+
+Dengan demikian, Anda dapat mengandalkan alat yang andal dan profesional untuk memeriksa dan memperbaiki drive yang rusak. Standar Asisten Partisi AOMEI, pakar masalah drive, yang fitur "Periksa partisi" dapat membantu Anda memeriksa drive Anda melalui 3 opsi dengan langkah mudah. Anda tidak perlu khawatir akan kerusakan akibat manipulasi yang salah.
+
+
+
+Mari kita jalankan prosedur pemeriksaan dengan aman.
+
+
+
+Download Freeware
+
+
+
+Langkah 1. Instal dan luncurkan AOMEI Partition Assistant Standard, klik kanan pada partisi yang akan Anda periksa, dan pilih "Advanced" "Check Partition".
+
+
+
+Langkah 2: Pilih cara memeriksa kesalahan yang akan dilakukan. Anda memiliki 3 opsi:
+ Periksa partisi dan perbaiki kesalahan di partisi ini dengan menggunakan chkdsk.exe
+Periksa partisi untuk kesalahan dengan menggunakan chkdsk.exe
+Periksa apakah ada bad sector pada partisi
+
+Opsi pertama tidak hanya menemukan bagian yang salah di partisi tetapi juga menanganinya; opsi kedua hanya mendapatkan kesalahan, yang terakhir hanya memberi tahu Anda apakah ada sektor buruk pada partisi. Untuk memperbaiki masalah penonaktifan aplikasi Windows, kami memilih cara pertama. Setelah Anda memilih, klik "OK" untuk melanjutkan.
+
+
+
+
+
+Catatan: Jika Anda memiliki program yang sedang berjalan, Anda akan melihat jendela peringatan, silakan ikuti membaca konten dan pilih "Ya" atau "Tidak" sesuai dengan situasi Anda.
+
+
+
+ 
+
+Langkah 3. Operasi akan berhasil diselesaikan dalam beberapa detik atau menit. Saat sedang beroperasi, Anda dapat melihat seberapa jauh prosesnya melalui jendela pop-out. Klik "OK" untuk menyelesaikan tugas ini. 
+
+
+
+Tips:
+
+Jika Anda ingin memeriksa bad sector fisik, Anda dapat memilih "Periksa apakah ada bad sector pada partisi" ketika Anda mengklik "OK", sebuah jendela akan muncul untuk mengkonfirmasi keputusan yang telah Anda buat. Pada saat ini, Anda perlu menekan "Mulai" untuk memulai operasi. Ini akan menunjukkan kepada Anda bagaimana perkembangannya dan detail seperti di mana bad sector berada dan berapa lama waktu yang dibutuhkan dan opsi ini adalah yang tercepat dari ketiganya. Namun, Anda dapat melakukannya lebih cepat dengan mencentang "Pemeriksaan Cepat" di jendela sembul baru.
+
+
+
+2. Run Masalah
+Langkah 1. Pilih tombol "Mulai", lalu pilih "Pengaturan".
+
+
+
+Langkah 2. Buka “Updated & Security”, dan pilih “Troubleshoot” di menu sebelah kiri.
+Langkah 3. Dari daftar pilih "aplikasi Windows Store", "Jalankan pemecah masalah".
+Langkah 4. Di jendela baru, pilih "Aktifkan Kontrol Akun Pengguna (UAC)".
+Langkah 5. Setelah prosedur deteksi, Anda harus me-restart PC Anda untuk menyimpan perubahan.
+
+
+
+ 3. Kosongkan cache Windows Store
+Langkah 1. Ketik wsreset.exe di bilah pencarian Windows, klik kanan yang paling cocok dan pilih Jalankan sebagai administrator.
+
+
+
+Langkah 2. Kemudian jendela Command Prompt akan muncul untuk menjalankan perintah. Setelah beberapa saat, Windows Store akan terbuka.
+Kemudian Anda dapat kembali ke Windows Store dan menginstal atau memperbarui aplikasi di toko Windows untuk mencoba menyelesaikan masalah penonaktifan aplikasi yang disebabkan oleh ketidakcocokan.
+
+4. Biarkan aplikasi dinonaktifkan melalui Firewall
+Metode ini hanya cocok jika Anda yakin aplikasi yang ingin Anda otorisasi aman untuk PC Anda.
+
+
+
+Langkah 1. Klik Start dan temukan “Windows Defender Security Center”, lalu klik.
+
+
+
+Langkah 2. Klik “Izinkan aplikasi melalui firewall”.
+
+
+
+Langkah 3. Di jendela "Aplikasi yang diizinkan", klik "Ubah pengaturan"
+
+
+
+Langkah 4. Kemudian, Anda dapat melihat semua aplikasi dan fitur yang diizinkan dapat dioperasikan. Pilih opsi di sisi kanan aplikasi atau fungsi yang diblokir oleh firewall, jaringan pribadi atau publik, dan klik tombol "OK" di bawah. Aplikasi yang sebelumnya diblokir dapat melewati firewall.
+
+
+
+Langkah 5. Jika Anda tidak dapat menemukan aplikasi yang diblokir di daftar jendela, klik "Izinkan aplikasi lain". Klik tombol "Jelajahi" di kotak dialog "Tambah Aplikasi", pilih file EXE yang diblokir di folder, dan klik " nyalakan".
+
+
+
+Langkah 6. Kemudian aplikasi yang ditambahkan dapat dicentang seperti yang lain.
+Langkah 7. Klik “OK” untuk menyimpan perubahan.
+
+4 cara ini dapat menjadi referensi Anda ketika Anda tidak tahu alasan sebenarnya, Anda dapat mencobanya satu per satu, semoga Anda dapat memperbaiki masalah Windows apps yang dinonaktifkan dengan cepat!
