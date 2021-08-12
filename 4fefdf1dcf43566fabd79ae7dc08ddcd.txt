@@ -1,0 +1,29 @@
+Inilah Cara Mendapatkan SSL Gratis dan Terpercaya
+==============================
+Dengan berkembangnya dunia digital, makin marak juga kejahatan cyber seperti penyadapan data pada website. Banyak website yang kini mementingkan keamanan datanya. Untuk itu Secure Sockets Layer atau SSL diperlukan sebagai fungsi kemanan dari penyadapan pada website. Lalu, apakah ada cara mendapatkan SSL gratis?
+Tentu saja banyak cara yang bisa dilakukan untuk mendapatkan SLL gratis. Ada beberapa penyedia jasa layanan hosting dengan penawaran lebih berupa SSL gratis. Berikut beberapa layanan hosting dengan layanan SSL dan cara mendapatkan SSL gratis ini untuk pengaman website.
+Layanan Hosting dengan SSL Gratis
+Sebenarnya SSL bukan hanya berfungsi untuk menjaga keamanan data. Tapi juga sebagai bentuk kredibilitas yang ditunjukan pada pengunjung website. 
+SSL juga penting untuk praktisi SEO dengan fungsi meningkatkan kepercayaan pada mesin pencari seperti Google, dalam artian bahwa situs yang dikunjugi aman.
+Layanan SSL yang tersedia saat ini ada yang berbayar maupun yang disediakan secara gratis. Penyedia hosting banyak pula yang memberikan tawaran SSL gratis. Tetapi yang terpenting di sini adalah layanan SSL tersebut memiliki kualitas dalam pengamanan data pada website. 
+Berikut beberapa layanan SSL dan cara mendapatkannya secara gratis. 
+1. Let’encypt 
+Let's Encrypt merupakan Free Open Certificate Authority penyedia fasilitas Sertifikat SSL/TLS. Let's Encrypt ini milik organisasi non-profit dari Linux Foundation sehingga layanannya gratis untuk semua pemilik website. Cara mendapatkan SSL gratis dari Let’encypt cukup mudah dilakukan. 
+Penggunaan SSL Lets Encrypt biasanya disediakan oleh beberapa penyedia hosting. Cara kerjanya sudah diintegrasikan dengan certbot yang menjadi partner untuk proses instalasi SSL pada website yang digunakan. 
+Masa berlaku Let's Encrypt berlangsung selama tiga bulan dan akan diperbarui secara otomatis. 
+2. CloudFlare 
+CloudFlare sebenarnya merupakan layanan penyedia Content Delivery Network (CDN), namun karena kemudahan dalam penggunaan platform ini digunakan sebagai solusi untuk pengemanan website. Faktor lainnya, SSL dari Cloudflare ini tidak berbayar. 
+Cara mendapatkan SSL gratis dari Cloudflare sangat mudah. Pertama yang harus dilakukan adalah melakukan registrasi dan menambahkan alamat website. Lalu ganti nameserver domain dengan nameserber yang tersdia di CloudFlare. Paling akhir yang harus dilakukan adalah melakukan setting redirect pengunjung. Ubah versi HTTP ke HTTPS dan gantilah url ke alamat yang baru.  
+3. SSL For Free 
+Layanan penyedia SSL ini merupakan layanan SSL gratis yang memberikan sertifikat gratis selamanya. SSL for Free memakai Certificate Authority dari Let’s Encrypt. Cara mendapatkan SSL gratis dari layanan ini juga mudah, yang perlu dilakukan hanyalah memasukan nama domain lalu dilanjutkan dengan validasi lewat DNS record. 
+Layanannya sepenuhnya gratis. Sertifikat SSL dari SSL for Free ini juga bisa digunakan untuk domain utama maupun subdomain.   
+4. Get HTTPS for Free 
+Get HTTPS for Free salah satu layanan penyedia SSL yang mudah dan praktis untuk digunakan. Sama seperti SSL For Free, layanan ini bisa jadi alterntif dari Let’s Encrypt. 
+Berbeda dengan Let’s Encrypt yang harus melalui proses konfigurasi VPS, Get HTTPS For Free lebih simple dalam penggunaannya. Untuk melakukan registrasi bisa langsung mengunjungi https://gethttpsforfree.com/ 
+5. Comodo SSL
+Comodo SSL merupakan salah satu penyedia sertifikat SSL yang sudah berdiri sejak tahun 1998. Comodo juga merupakan salah satu brand terbesar dalam industri keamanan cyber yang telah banyak digunakan di Indonesia. Merk SSL dari Comodo ini telah mendominasi 42% pasar SSL.
+
+Sebenarnya Comodo SSL merupakan layanan SSL berbayar. Tetapi bisa mendapatkan layanan trial gratis selama 90 hari. Layanan gratis ini memiliki kualitas yang sama dengan yang berbayar. Layanan gratis 90 hari ini bisa digunakan untuk menguji sertifikasi keamanan pada website. 
+Penutup
+Fungsi keamanan website ini memang memegang peranan penting, baik bagi keamanan database maupun untuk menarik traffic kunjungan. 
+Cara mendapatkan SSL gratis sebenarnya cukup mudah dilakukan. Pada akhir proses jangan lupa untuk melakukan aktivasi SSL. Cara aktivasi biasanya menggunakan CA Bundle dan privat key SSL certificate gratis pada kolom yang sesuai. Dengan kelengkapan SSL yang telah disematkan, keamanan website jadi terjamin.
