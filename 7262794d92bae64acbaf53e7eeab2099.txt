@@ -1,0 +1,23 @@
+Apakah itu web ? Bagaimana Riwayat dan Perubahan website ?
+==============================
+Pasti anda pernah berkunjung website ini, sudah pernahkah anda ketahui riwayat dan perubahan website?, Pada artikel ini akan mengulas riwayat dan perubahan website. Website Timeline Explanation Di tahun 1989 Team Berners-Lee, seorang programmer computer berbahasa Inggris yang bekerja di European Physics Laboratory (CERN) di Jenewa, Swiss. Kerjakan suatu hal yang lain atas sesuatu yang sudah dilaksanakan awalnya. Ia menyatukan hypermedia dengan sumber info Internet yang luas. Saat sebelum Wen, Anda dapat lakukan beberapa hal menarik di Internet, tetapi itu tidak dapat dilaksanakan secara mudah.
+
+
+Jalan keluar Berners-Lee ialah tehnologi hypertext untuk membuat document Web. Tidak seperti buku atau database, Web banyak memiliki peluang jaringan di antara document tanpa dimulai dan disudahi. Semua perincian mengenai bagaimana info ini terikat, diselinapkan dengan antar-muka hypertext berbasiskan watak. Dengan Web, seorang fisikawan bisa secara mudah melonjak dari sebuah artikel mengenai teori partikel di mesin lokal ke kamus istilah fisika nuklir pada mekanisme yang memiliki jarak beberapa ribu mil jauhnya. Karena perubahan website demikian cepat hingga beberapa pakar memiliki inisiatif sediakan angka atau penomoran untuk kategorisasi angkatan website seperti berikut :
+Web 1.0
+
+Web 1.0 ialah tehnologi Web angkatan pertama kali yang sebagai revolusi baru di dunia internet karena mengganti langkah dunia industri dan media. Tehnologi website angkatan pertama ini diperkembangkan untuk terhubung info dan mempunyai karakter yang sedikit interaktif. Situs web seperti halaman website informasi "cnn.com" atau "Bhinneka.com" bisa digolongkan ke type ini.
+
+Web 2.0
+
+Tehnologi website angkatan selanjutnya dikenalkan dengan istilah Web 2.0 oleh O'Reilly Media di tahun 2004 sebagai tehnologi Web angkatan ke-2 yang tempatkan kerjasama online dan share info bersama. Menurut Team O'Reilly, Web 2.0 dapat diartikan seperti berikut:
+
+Tehnologi website Web 2.0 sebuah revolusi usaha di dunia industri komputerisasi yang disebabkan karena pemakaian basis internet, dan sebagai usaha untuk pahami beragam ketentuan untuk capai keberhasilan pada basis baru. Salah satunya ketentuan intinya ialah: Meningkatkan program dengan memakai Dampak jaringan untuk memperoleh semakin banyak pemakai.
+
+Service berbasiskan web seperti jaringan sosial, wiki dan fononim (contoh: "flickr.com", "del.icio.us") ialah tehnologi Web 2.0 yang menambah interaktivitas di antara pemakai Web. Biasanya, situs web yang dibikin memakai tehnologi Web 2.0 mempunyai beberapa feature berikut ini: CSS (Cascading Model Sheets)
+
+Web 3.0 / Semantic Web
+
+Sementara masih juga dalam pembicaraan di antara riset dan peneliti, istilah Web 3.0 masih sebagai kekuatan potensi tehnologi prospektif di dunia internet. Sekarang ini, pengertian untuk Web 3.0 berlainan dari akses mobile broadband ke service Web dengan piranti lunak on-demand [Joh07]. Tetapi, menurut John Markoff, Web 3.0 ialah seperangkatan tehnologi yang tawarkan langkah baru yang efektif untuk menolong computer atur dan menarik ringkasan dari data online.
+
+Berdasar pengertian yang dihidangkan, Semantic Web pada intinya mempunyai arah yang serupa seperti Semantic Web yang mempunyai content Web yang tidak bisa diutarakan cuman dengan bahasa alami yang dimengerti oleh manusia, tetapi berbentuk yang bisa dimengerti, didefinisikan dan dipakai oleh piranti lunak (Software Agent ). Lewat Semantic Web, beragam piranti lunak segera dapat mendapati, share, dan memadukan info lebih gampang. Sumber Artikel : <a href="https://bambonghore.com/">bambonghore.com</a>
