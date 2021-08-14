@@ -1,0 +1,12 @@
+Data Breach BRI
+==============================
+Bank Rakyat Indonesia (BRI) adalah salah satu bank milik pemerintah yang terbesar di Indonesia. Bank Rakyat Indonesia (BRI) didirikan di Purwokerto, Jawa Tengah oleh Raden Bei Aria Wirjaatmadja tanggal 16 Desember 1895
+
+Diduga, data nasabah perusahaan asuransi BRI Life telah bocor dan dijual di internet. Akun yang memiliki username ' Hudson Rock ' memposting dugaan pelanggaran pencurian pada perusahaan PT Bank Rakyat Indonesia (Persero) atau BRI. Akun tersebut mengatakan di Twitter bahwa seseorang telah membocorkan data rahasia kehidupan "Belt and Road". Orang ini memiliki video berdurasi 30 menit yang berisi sekitar 250 GB data yang berupa
+ 2,000,000 klien
+ 463,000 dokument
+ $7,000 permintaan harga
+Di antara unduhan yang juga saya lihat , terdapat gambar atau screenshot yang memuat sederet informasi pribadi yang diduga milik nasabah BRI Life, seperti rekam medis. CEO BRI Life.
+
+Ivan Pasila mengutip Reuters mengatakan bahwa dia sedang menyelidiki tuduhan ini. Tim sedang dalam tahap negosiasi dan akan memberikan update segera setelah penyelidikan selesai,” kata Ivana dalam pesan dari Reuters pada Selasa, 27 Juli 2021. 
+Perusahaan cybersecurity Hudson Rock menemukan bukti bahwa karyawan BRI Life memiliki beberapa komputer. telah mengidentifikasi beberapa komputer milik karyawan BRI Life dan Bank Rakyat Indonesia, yang dapat membantu peretas memasuki perusahaan sesegera mungkin," katanya. ... Hudson Rock dalam sebuah pernyataan kepada Reuters
