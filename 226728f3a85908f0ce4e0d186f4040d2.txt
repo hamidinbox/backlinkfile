@@ -1,0 +1,99 @@
+Keunggulan dan kekurangan windows 11
+==============================
+Sekitar sepuluh tahun yang lalu, Microsoft memperkenalkan Windows 10 sebagai versi terbaru dari sistem operasinya. Sekarang Microsoft mengumumkan bahwa jalan menuju Windows 10 telah berakhir. Windows 11 akan segera menggantikannya, membawa pembaruan penting, fitur baru, dan desktop yang lebih bersih. Dan beberapa gangguan yang mungkin mengingatkan Anda pada masa kejayaan Windows 98 SE.
+Jadi mari kita bicara tentang keuntungan dan kerugian utama dari sistem operasi Microsoft masa depan.
+
+<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-Rpc4OcmpndM/YRis7d-5wMI/AAAAAAAAIrc/v1r1epS5g2UocShonlaWD-DGeuNyhnd7ACLcBGAsYHQ/s700/windows_11.jpg" style="display: block; padding: 1em 0px; text-align: center;"><img alt="kelebihan dan kekurangan windows 11" border="0" data-original-height="428" data-original-width="700" height="196" src="https://1.bp.blogspot.com/-Rpc4OcmpndM/YRis7d-5wMI/AAAAAAAAIrc/v1r1epS5g2UocShonlaWD-DGeuNyhnd7ACLcBGAsYHQ/w320-h196/windows_11.jpg" title="keunggulan dan kekurangan windows 11" width="320" /></a></div><div class="separator" style="clear: both;"><br /></div>
+
+Keunggulan Windows 11
+
+Windows 11 lebih dari sekadar Windows 10 dengan koleksi wallpaper baru. Untungnya, banyak penyesuaian dan peningkatan lainnya membuat peningkatan ke sistem operasi terbaru menjadi menarik.
+Pada saat yang sama, latar belakang sistem operasi baru sangat indah!
+
+1. Kaca yang indah
+Keindahan desktop baru Windows 11 mencoba meniru tampilan kaca dan membuat banyak elemen desktop (dari jendela hingga menu) transparan.
+Transparansi ini terkait erat dengan efek terkait seperti keburaman latar belakang, bayangan, dan sudut membulat. Semua GPU dipercepat untuk pengalaman pengguna yang lebih lancar. Keduanya harus lebih halus dan lebih jelas daripada Windows 10.
+
+2. Bar ke Dock
+Seperti Mac OS dan banyak lingkungan desktop Linux, bilah tugas Windows 11 dapat diubah menjadi stasiun dok. Ikon di atas dapat dipusatkan, yang sangat berguna saat menggunakan Windows 11 di perangkat sentuh.
+penggemar bilah tugas klasik masih dapat menyelaraskan tombol mulai dan ikon aplikasi ke kiri.
+Harap dicatat bahwa jika Anda menyukai tampilan Windows 11, terutama taskbar pusat, kami telah mempelajari cara membuat desktop Windows 10 terlihat seperti Windows 11
+
+3. Pengembalian Widget
+Dibandingkan dengan ubin Windows 10 Live, apakah Anda lebih suka widget dan jendela informasi mengambang kecil di Windows Vista dan 7? Widget
+ baru di Windows 11 muncul di panel khusus yang meluncur keluar dari sisi kiri layar dan lebih berfokus pada penyajian informasi daripada fungsi applet.
+ Namun, ini bukan fitur terobosan, kami memperkenalkan di atas cara mengembalikan widget ke desktop Windows 10.
+ 
+4. Tata Letak dan Grup Snap yang Mudah Diakses
+Bahkan dalam konfigurasi dasar, Windows mendukung gertakan jendela di sisi atau sudut layar. Awalnya "dipinjam" dari sistem operasi lain, fungsi ini diperluas lebih lanjut dengan fungsi Windows PowerToys FancyZones.
+ Sekarang versi Windows 11 yang baru dan lebih baik menawarkan fungsi untuk semua orang dan menempatkannya di menu cepat yang terletak di atas tombol maksimalkan.
+ 
+5. Aplikasi Android di Windows 11
+Sebelumnya Windows 10, jika Anda ingin menjalankan aplikasi atau game Android, Anda dapat mengontrol ponsel dari jarak jauh atau menjalankan emulator. Windows 11 mendukung aplikasi Android yang diinstal.
+ Secara teori, Anda seharusnya dapat menginstal hampir semua aplikasi atau game Android, dan mengkliknya akan muncul di layar, sama seperti perangkat lunak Windows asli.
+ 
+6. Next-Gen Gaming
+Salah satu fungsi Xbox dan PlayStation yang lebih baru adalah koneksi CPU, GPU, dan subsistem penyimpanan DirectStorage yang sesuai dengan PC.
+ DirectStorage diharapkan secara signifikan meningkatkan kinerja aplikasi yang memproses data dalam jumlah besar. Biasanya ini biasanya berarti "permainan". Untuk mempelajari lebih lanjut tentang teknologi baru yang menarik ini, baca detailnya untuk mengetahui apa itu DirectStorage dan bagaimana hal itu dapat membuat game lebih cepat.
+ Auto HDR juga membuat lompatan dari konsol Xbox terbaru ke PC. Anda dapat meningkatkan tampilan game lama dengan secara otomatis meningkatkan tingkat kecerahannya dan memanfaatkan rentang kecerahan penuh monitor modern.
+ 
+7. Tim untuk Semua
+Orang Satu klik pada bilah tugas Windows 11 sudah cukup untuk mengobrol dengan teman dan kontak melalui SMS, suara, atau video.
+ Ini berkat Microsoft Teams, yang dipromosikan Microsoft sebagai solusi Windows 11 utama untuk berkomunikasi dengan keluarga, teman, dan kolega.
+Solusi konferensi video standar yang dibangun ke dalam sistem operasi akan menjadi tambahan yang sangat baik bagi banyak pengguna, meskipun, seperti yang mungkin diperhatikan beberapa orang, tersedia alternatif yang lebih baik.
+ 
+ 
+Kekurangan Windows 11
+ 
+Tidak semuanya begitu menarik di versi Microsoft Windows berikutnya. Anda akan menemukan bahwa banyak perubahan dan penyesuaian yang bermasalah sudah cukup untuk membuat Anda tetap menggunakan Windows 10.
+ 
+1. Desktop yang Dipercepat
+ 
+Dengan kekurangan perangkat keras saat ini, hampir tidak mungkin untuk menemukan GPU baru dengan harga yang wajar. Akibatnya, banyak peningkatan GPU telah ditunda ke masa depan yang jauh. GPU Microsoft baru mengharuskan GPU setidaknya kompatibel dengan DirectX 12 dengan driver WDDM 2.0.
+ 
+2. Dimana Skype?
+ 
+Skype adalah aplikasi pertama yang mempopulerkan panggilan video peer-to-peer. Skype hari ini tampaknya tenggelam dalam lautan alternatif yang serupa dan terkadang lebih baik untuk panggilan video.
+ Mungkin inilah mengapa Microsoft menggantinya dengan Teams dalam presentasi Windows 11-nya.
+ 
+3. Bilah Tugas Lebih Sedikit
+ 
+Sejauh yang kami ketahui, bilah tugas Windows 11 terlihat bagus, tetapi lebih diturunkan dalam hal kegunaan.
+ Bilah tugas tidak lagi dapat dipindahkan ke sisi mana pun di layar; bilah tugas sekarang menggantung di bagian bawah layar.
+ Demikian pula, mengklik di tengah simbol tidak akan meluncurkan instance baru dari aplikasi yang sudah berjalan.
+ 
+4. Timeline yang Terlupakan
+ 
+Ingat bagaimana Microsoft memperkenalkan timeline sebagai cara visual lain untuk tetap teratur? Ketika kita melihat bagaimana kita menggunakan komputer kita, timeline dapat menunjukkan aplikasi dan dokumen yang kita kunjungi, situs web yang kita kunjungi, dll dalam urutan kronologis.
+ Ini adalah ide bagus di atas kertas, tetapi hanya sedikit orang yang menggunakannya. Jika Anda salah satu yang menyukainya, tetaplah menggunakan Windows 10, karena Windows 11 tidak lagi menyertakan timeline.
+ 
+5. Sampai jumpa Cortana
+ 
+Cortana adalah versi Microsoft yang menggunakan bantuan AI, seperti Asisten Google dan Alexa Amazon, yang dengannya Anda berinteraksi dengan suara .
+Namun, mungkin lebih tepat untuk mengatakan "adalah" karena Cortana tidak lagi dimasukkan ke dalam OS. Namun, Anda tetap dapat mengunduh, menginstal, dan menggunakan Cortana sebagai aplikasi terpisah.
+ 
+6. Tata Letak Lebih Sedikit, Lebih Banyak Penundaan
+ 
+Dengan Windows 11, Anda dapat dengan cepat mengambil jendela apa pun di layar berdasarkan tata letak jendela yang telah ditentukan sebelumnya. Namun, jika Anda menginstal PowerToys milik Microsoft di Windows 10, Anda juga dapat membuat Anda tata letak. Itu tidak sesederhana itu, tapi itu jauh lebih fleksibel.
+Sebagai bonus, cara default untuk menjepret jendela adalah dengan mengarahkan kursor mouse ke tombol maksimalkan jendela. "Mengarahkan kursor" berarti menjaganya tetap stabil di atas elemen desktop dan menunggu OS mendeteksi Anda ingin mengakses pop-up cepat tata letak. "Menunggu" ini mungkin tidak terlalu lama, tetapi membutuhkan waktu lebih lama daripada menekan hotkey atau mengklik hotspot di layar.
+
+Kunjungi : <a href="https://www.sudutdesa.club">berita desa</a>
+ 
+7. Biarkan Microsoft Tahu Anda
+ 
+Kita dapat dengan aman berspekulasi bahwa Windows 11 juga akan mengirimkan lebih banyak informasi ke Microsoft tentang komputer kita dan bagaimana kita menggunakannya. Anda harus masuk dengan akun Microsoft untuk memanfaatkan sepenuhnya semua fitur yang ditawarkan OS baru, apa pun edisinya.
+Tambahkan ke ini bagaimana widget desktop Windows 11 akan menggunakan AI untuk menyajikan informasi yang disesuaikan (dan iklan) kepada Anda dengan memantau minat Anda, dan penggemar 1984 George Orwell mungkin ingin melewatkan peningkatan.
+ 
+8. Anda Tidak Dapat Menjalankannya Namun,
+kelemahan utama Windows 11 adalah Anda mungkin tidak dapat menjalankannya. Bahkan jika Anda memiliki GPU yang mampu mempercepat desktop barunya, PC Anda yang lain mungkin tidak dapat melakukan tugas tersebut.
+Alasan Microsoft bahwa Anda memerlukan perangkat keras yang hebat untuk mendapatkan pengalaman yang luar biasa. Sebagai OS baru yang modern, Windows 11 juga membutuhkan PC modern yang relatif baru.
+Jika CPU PC Anda lebih tua dari prosesor Intel Core generasi ke-7 atau prosesor Zen 2 AMD, Anda kurang beruntung. Namun, masalah yang lebih besar tampaknya adalah kompatibilitas TPM 2.0.
+Meskipun Anda mungkin menemukan modul TPM di sebagian besar laptop dan banyak PC bawaan, modul tersebut tidak ada di sebagian besar PC DIY. Dan tidak ada dukungan TPM 2.0 berarti tidak ada Windows 11.
+ 
+Windows 11 Tidak Dapat Dihindari
+ 
+Terlepas dari pro dan kontranya, suka atau tidak suka, Windows 11 akan datang, dan pada akhirnya akan menggantikan Windows 10. Seperti semua versi Windows sebelumnya...
+Kami' Saya akan menghargai beberapa fitur baru dan penyesuaian pada formula desktop yang sudah ada.
+Kita akan membutuhkan lebih banyak waktu untuk membiasakan diri dengan orang lain.
+Kami akhirnya akan menggunakan alat pihak ketiga untuk "memperbaiki" yang akhirnya mengganggu.
+Mari berharap Windows 11 akan memecahkan sejarah meme-layak Microsoft untuk mengikuti setiap versi Windows yang hebat dengan yang buruk dan berakhir lebih seperti Windows 10 atau 7 daripada Windows 8 atau Vista
