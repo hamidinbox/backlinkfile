@@ -1,0 +1,28 @@
+Fungsi Watermark pada Sebuah Proyek Desain
+==============================
+<p dir="ltr">Fungsi Watermark pada Sebuah Proyek Desain | "Pencuri" karya itu memang meresahkan ya? Kita sudah capek-capek buat desain, eh malah diklaim orang tak bertanggung jawab. Tenang, tenang, ada cara agar karya desain kita tak mudah diakui orang lain.</p>
+<p dir="ltr">Pernahkah kamu mendengar kata watermark? Apa itu watermark dan apa fungsinya?</p>
+
+<h2>Pengertian Watermark</h2>
+<p dir="ltr">Watermark sebetulnya diambil dari  Bahasa Inggris yang sekarang sudah menjadi kata serapan tanpa diterjemahkan. Dalam KBBI watermark bermakna tanda pada kertas yang tampak samar jika kena sinar, identiknya dengan uang.</p>
+<p dir="ltr">Sedangkan watermark yang digunakan dalam produk digital berarti sebuah tanda berupa bentuk tulisan, logo, atau pola yang sengaja dipasang dalam sebuah karya. Watermark tidak hanya digunakan dalam desain, dipakai juga dalam fotografi, bahkan video.</p>
+<p dir="ltr">Watermark biasanya diletakan di pojok kanan/kiri, bisa di atas/bawah. Ada sebagian watermark yang dipasang di tengah-tengah, atau bisa juga membentuk sebuah pola. Bentuk watermark cenderung transparan, dimaksudkan agar tak menganggu keindahan sebuah karya.</p>
+
+<h2>Fungsi Watermark</h2>
+<h3>1. Melindungi Hak Cipta</h3>
+<p dir="ltr">Ingat ya kawan-kawan, hak cipta itu penting! Dan plagiarisme itu sangat dilarang, bahkan sudah ada hukum pidananya.</p>
+<p dir="ltr">Fungsi watermark  yang paling utama adalah melindungi hak cipta. Dengan adanya watermark pada sebuah karya desain, karya tersebut tidak akan mudah untuk diakui atau diklaim pencuri bahwa itu adalah hasil pekerjaannya.</p>
+<p dir="ltr">Watermark juga digunakan sebagai identitas si pembuat karya, dengan watermark orang lain jadi tahu siapa sosok kreatif di balik sebuah desain yang memukau.</p>
+
+<blockquote>
+<p dir="ltr">Baca juga : <a class="row-title" href="https://desainio.com/pengertian-typeface/" aria-label="“Pengertian Typeface dan Fungsinya dalam Desain. Apa itu Typeface?” (Edit)">Pengertian Typeface dan Fungsinya dalam Desain. Apa itu Typeface?</a></p>
+</blockquote>
+<h3>2. Branding dan Promosi</h3>
+<p dir="ltr">Beberapa desain khususnya yang dimaksudkan untuk bisnis, menggunakan watermark biasanya berupa logo untuk <em>branding</em> dan promosi.</p>
+<p dir="ltr">Seperti yang sudah dijelaskan di poin sebelumnya, watermark juga bisa dipakai untuk mengidentifikasi. Identifikasi di sini yaitu mengenali sebuah <em>brand</em> dari suatu produk.</p>
+<p dir="ltr">Dalam promosi, sebuah foto produk bisa dilengkapi watermark berbentuk logo atau alamat tempat produk itu dijual. Dengan begitu, akan mengundang rasa penasaran "Si Calon Konsumen" untuk mencari tahu <em>brand</em> apa di balik foto tersebut. Hingga pada akhirnya dia akan membeli.</p>
+
+<h2>Keuntungan dan Kekurangan Watermark</h2>
+<p dir="ltr">Keuntungan dari penggunaan watermark ini yaitu melindungi karya dari "penjahat" sehingga tak mudah untuk diduplikasi atau diakui pencuri karya. Dengan watermark karya desain juga lebih gampang dikenali. Kamu bisa menggunakan <em>software</em> untuk membuat dan memasang watermark.</p>
+<p dir="ltr">Kekurangannya; walaupun watermark dianggap cara paling ampuh untuk melindungi karya, tapi ada saja tangan jahil yang banyak taktik untuk menghapus watermark dari sebuah karya. Kamu jangan sekali-kali begitu ya! Hargai orang lain yang susah-susah membuat desain, ibarat kata lupa makan demi karya yang menawan.</p>
+<p dir="ltr">Meski terdapat kekurangan, dengan fungsi watermark yang bisa jadi pelindung hak cipta, ini bisa menjadi solusi agar karya desain yang menguras tenagamu tidak gampang diakui orang lain begitu saja. Kamu bisa pakai aplikasi watermark maker baik itu versi desktop atau mobile yang bisa didownload di Playstore.</p>
