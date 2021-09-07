@@ -1,0 +1,14 @@
+Update Fitur Baru Google Chrome(BETA)
+==============================
+Chrome beta memudahkan untuk beralih di antara hasil penelusuran
+
+
+  Google mengumumkan beberapa eksperimen baru yang tersedia di Chrome beta terbaru yang dimaksudkan untuk mempermudah menemukan berbagai hal di web dan berbagi teks yang menarik. Jika Anda ingin melompat ke Chrome beta untuk mencoba fitur ini, unduh di sini untuk <a href='https://www.google.com/chrome/beta/'>komputer</a> Anda atau di sini untuk perangkat <a href='https://play.google.com/store/apps/details?id=com.chrome.beta'>Android</a> Anda. Meskipun seperti semua beta, berhati-hatilah, karena hal-hal mungkin tidak bekerja dengan sempurna. Dan saya akan menyebutkan mengaktifkan flags di seluruh untuk melakukannya, masukkan Chrome://flags ke bilah alamat Anda, yang mana Anda dapat mengubah pada banyak eksperimen Chrome yang tersedia.
+
+Meskipun Anda tidak dapat melihat URL lengkap di bilah tambahan ini, sepertinya ini bisa menjadi cara yang berguna untuk melompat ke situs lain tanpa harus kembali ke hasil penelusuran lengkap. Anda dapat mencoba eksperimen ini dengan mengaktifkan tanda #continuous-search.
+
+Fitur lain dalam pengujian memungkinkan Anda membuat gambar teks bergaya di situs web, yang dapat berguna untuk merapikan teks yang ingin Anda bagikan dengan teman atau media sosial. (Fitur ini juga tampak matang untuk beberapa meme konyol.) Yang ini tersedia di ponsel dan tablet Android jika Anda mengaktifkan #webnotes-stylize.
+
+Fitur baru lainnya menambahkan kartu ke halaman Tab Baru yang memudahkan untuk melompat kembali ke situs yang Anda kunjungi sebelumnya. Dalam postingan blog, Google memberikan contoh kartu untuk halaman resep, keranjang belanja, atau dokumen di Google Drive. Jika Anda ingin mencobanya, aktifkan flag #ntp-modules di komputer.
+
+Karena ini adalah eksperimen, selalu ada kemungkinan bahwa mereka belum menyelesaikan semua bug, dan Google mungkin memutuskan untuk tidak memindahkannya melewati fase eksperimen. Tapi itu bisa berupa pratinjau fitur yang akan datang, dan jika Anda ingin mencobanya lebih awal, lihat di Chrome beta.
