@@ -1,0 +1,28 @@
+Penggunaan Warna RGB dan CMYK pada Sebuah Proyek Desain
+==============================
+<p dir="ltr">Penggunaan Warna RGB dan CMYK pada Sebuah Proyek Desain | Warna, yakni salah satu elemen dalam desain grafis. Sebuah karya desain bisa saja hitam-putih, tapi warna memperkaya makna, dan penarik utama dari atensi audiens.</p>
+<p dir="ltr">Ada jutaan warna yang berbeda, dan mereka semua dihasilkan dari 3 warna primer dalam sistem pewarnaan yang kita kenal sebagai RGB dan CMYK. Keduanya jelas berbeda, hingga pada penggunaan warna RGB dan CMYK pun jelas berbeda.</p>
+
+<h2>Warna RGB</h2>
+<p dir="ltr">RED-GREEN-BLUE merupakan kepanjangan dari RGB, yakni sistem pewarnaan dengan metode pencahayaan atau disebut dengan <em>additive color</em>. Disebut aditif karena penambahan cahaya mempengaruhi hasil warna dari primer RGB.</p>
+
+<h2>Warna CMYK</h2>
+<p dir="ltr">Ketika sebuah mesin cetak bekerja, bagian print head berfungsi untuk mentransfer tinta ke atas kertas, di saat itulah warna CMYK bekerja.</p>
+<p dir="ltr">CYAN-MAGENTA-YELLOW-KEY/blacK adalah kepanjangan dari CMYK, yakni proses pewarnaan dengan metode <em>substracktive</em> yaitu pengurangan spektrum cahaya, jadi warna yang telihat akan terkesan pudar daripada RGB. Proses pewarnaan CMYK dilakukan dengan penambahan pigmen/tinta pada sebuah media, kertas misalnya.</p>
+<p dir="ltr">Nah, seperti yang dijelaskan di awal penggunaan RGB dan CMYK itu berbeda. RGB digunakan untuk apa? CMYK digunakan untuk apa?</p>
+
+<blockquote>
+<p dir="ltr">BAca Juga : <a href="https://desainio.com/pengertian-typeface/">Pengertian Typeface dan Fungsinya dalam Desain. Apa itu Typeface?</a></p>
+</blockquote>
+<h2>Penggunaan Warna RGB dan CMYK</h2>
+<p dir="ltr">Hakikat dari kedua warna ini adalah warna dasar yang bisa menghasilkan jutaan warna yang berbeda.</p>
+<p dir="ltr">Warna dasar RGB jika dikombinasikan bisa menghasilkan <strong>16.777.216</strong> warna yang berbeda. Sedangkan warna yang dihasilkan dari kombinasi dasar CMY hanya menghasilkan <strong>1 juta</strong> warna yang berbeda. Kenapa tidak ditambahkan warna Key (hitam) karena K hanya bertugas sebagai pengatur kontras.</p>
+<p dir="ltr">Dengan ragam warna yang dihasilkan RGB, desainer tentu akan lebih bebas berekspresi dan bermain dengan warna pada sebuah proyek desain.</p>
+<p dir="ltr">Karena pengaruh cahaya tadi warna dari hasil pencampuran primer RGB terlihat lebih cerah ketimbang warna CMYK yang terkesan pudar.</p>
+<p dir="ltr">Jika ingin membuat desain yang khusus ditampilkan di layar seperti interface, logo, ilustrasi, web design, GUNAKAN RGB.</p>
+<p dir="ltr">Sebaliknya, jika tujuan desain untuk dicetak, contohnya spanduk, kemasan, kartu nama, GUNAKAN CMYK.</p>
+<p dir="ltr">Singkatnya begitu. RGB jika untuk desain cetak warnanya tidak akan sesuai dengan tampilan di komputer, karena keterbatasan CMYK. Jadi,  sebelum membuat proyek desain, tentukan dulu tujuan desain itu untuk media cetak, atau hanya ditampilkan di layar. Atau jika sudah terlanjur menggunakan RGB untuk desain, kamu juga bisa mengubah color mode di software seperti Photoshop dan Corel Draw.</p>
+<p dir="ltr">Sudah ngerti 'kan penggunaan warna RGB dan CMYK itu bagaimana? Intinya putuskan desain itu mau dibuat cetak atau hanya tampilan layar. Kamu bisa gunakan RGB untuk tampilan monitor dan ubah ke mode CMYK kalau ingin desainnya dicetak.</p>
+<p dir="ltr">Ingat ya!
+RGB = tampilan monitor
+CMYK = desain cetak</p>
