@@ -1,0 +1,89 @@
+Cara Menambahkan Progress Bar Membaca di Blogger
+==============================
+<p>
+ Apakah Anda ingin Menambahkan Bilah Kemajuan Membaca di Blogger?  Ikuti langkah-langkah di bawah ini
+ hati-hati untuk Menambahkan Reading Progress Bar di Blogger, dan buat blog blogger Anda
+ terlihat luar biasa, pertama mari kita pahami Apa itu Reading Progress Bar dan
+ Apa kebutuhan dari Reading Progress Bar?
+ </p>
+ <h2 id="What_is_Reading_Progress_Bar?">Apa itu Bilah Kemajuan Membaca?</h2>
+ <p>
+ Singkatnya, bilah kemajuan membaca adalah representasi visual dari seberapa banyak
+ dari posting blog tetap.  Ini mencapai ini dengan melacak posisi pengunjung di
+ halaman.  Saat mereka menggulir ke bawah, bilah mulai terisi, menunjukkan berapa banyak
+ kemajuan yang telah mereka buat.  Begitu mereka mencapai akhir pos, bilahnya adalah
+ penuh.
+ </p>
+ <h2 id="What_is_the_need_of_Reading_Progress_Bar?">Apa perlunya Reading Progress Bar?</h2>
+ <p>
+ Pengguna hanya membayar beberapa detik di halaman web sebelum memutuskan apakah akan
+ tinggal atau pergi.  Membuat pengguna tetap terlibat menjadi sedikit lebih menantang jika
+ Anda menerbitkan artikel tipe panjang, karena mereka membutuhkan pengguna untuk menggulir ke bawah.
+ </p>
+ <p>
+ Beberapa pemilik rumah situs web menambahkan posting terhubung sebaris, yang lain menggunakan video atau
+ galeri gambar untuk membuat pengguna tetap berada di halaman.
+ </p>
+ <p>
+ Bilah kemajuan membaca menambahkan peningkatan antarmuka pengguna sentuh yang mendorong
+ pengguna untuk menggulir ke bawah.  Ini juga memotivasi pengguna untuk menyelesaikan artikel mereka
+ membaca.
+ </p>
+ <p>
+ Banyak situs web populer seperti Daily Beast, gunakan kemajuan membaca
+ indikator untuk melibatkan pembaca mereka.  Namun, Anda selanjutnya mungkin harus
+ menyatakan bahwa indikator kemajuan membaca halus dan tidak merusak pengguna
+ pengalaman di situs web Anda.
+ </p>
+ <p>
+ Karena itu, mari kita lihat bagaimana Anda dapat dengan mudah menambahkan bacaan
+ bilah kemajuan di blogger.
+ </p>
+<h2 style="text-align: left;" id=""How_to_Add_Reading_Progress_Bar_in_Blogger?">Cara Menambahkan Progress Bar Membaca di Blogger?</h2>
+<p>Saya akan memandu Anda untuk Menambahkan Reading Progress Bar di Blogger, Oke, mari kita mulai!</p>
+ <p>
+ <b>Langkah 1</b>.  Pertama-tama, Anda harus pergi ke dasbor Blogger yaitu.
+ <b><a href="//blogger.com" rel="noopener noreferrer" target="_blank"> blogger.com</a></b>.
+ </p>
+ <p><b>Langkah 2</b>.  Buka Bagian Tema dan Klik Tombol Edit HTML.</p>
+ <p><b>Langkah 3</b>.  Salin Kode CSS yang diberikan di bawah ini.</p>
+ <pre class="css"><code><i class="comment">/* Bilah Bacaan Kemajuan */</i>
+ .progress-container{width:100%;position:fixed;z-index:99;top:0;left:0;}
+ .progress-bar{height:5px;background:#F86152;}</code></pre>
+ <p style="text-align: left;">
+ <b>Langkah 4</b>.  Rekatkan Kode CSS di atas
+ <span class="code">]]&gt;&lt;/b:skin&gt;</span> tag.
+ </p>
+<p style="text-align: left;"><b>Step 5</b>. Copy the JS Code given below.</p>
+<pre class="js"><code>&lt;<i class="tag">script</i>&gt;
+window.onscroll = function() {
+    myFunction()
+};
+function myFunction(){
+    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    var scrolled = (winScroll / height) * 100;
+    document.getElementById("myBar").style.width = scrolled + "%";
+}
+&lt;/<i class="tag">script</i>&gt;</code></pre>
+
+<p style="text-align: left;">
+<b>Step 6</b>. Paste Kode JS di atas
+<span class="code">&lt;/body&gt;</span> tag.
+</p>
+
+<p style="text-align: left;"><b>Langkah 7</b>.  Salin Kode HTML yang diberikan di bawah ini.</p>
+<pre class="html"><code>&lt;<i class="tag">div</i> class='<span>progress-container</span>'&gt;
+&lt;<i class="tag">div</i> class='<span>progress-bar</span>' id='<span>myBar</span>' style="width:0%;"&gt;&lt;/<i class="tag">div</i>&gt;
+&lt;/<i class="tag">div</i>&gt;</code></pre>
+<p style="text-align: left;">
+<b>Langkah 8</b>.  Rekatkan Kode HTML tepat di bawah
+<span class="code">&lt;body&gt;</span> tag.
+</p>
+<p style="text-align: left;"><b>Langkah 9</b>. Klik Simpan!!</p>
+<h2 id="Kesimpulan">Kesimpulan</h2>
+ <p>
+ Nah teman-teman, bagaimana kalian menyukai postingan ini tentang<b>Cara Menambahkan Reading Progress Bar di Blogger?</b>Sekarang kalian pasti sudah mengerti Cara Menambahkan Reading Progress Bar di Blogger.
+ </p>
+
+<p class="postReference">Referensi:<br /><a href="https://www.suyachan.my.id" rel="dofollow" target="_blank"> www.suyachan.my.id</a></p>
