@@ -1,0 +1,42 @@
+Cara Reset Kode Template Blogger
+==============================
+Cara Mereset Template Blogger - SeribuuCara akan membagikan sebuah artikel yang membahas tentang bagaimana cara mereset sebuah template blogger yang acak-acakan dan akan kembali seperti kesemula.
+
+Untuk itu mari kita bahas dulu masalah terkait template ini, bagi kalian para sahabat blogger dimanapun berada. Kita sering kali di reportkan kalau kita sedang mau mengedit template blog kita, dan sering mendapati template nya acak-acak.
+
+Acak-acak disini maksudnya kalau kita mau memulihkan template blog atau memulihkan template blog dan kita akan mendapati template nya suka acak-acak tampilan nya nah.
+
+Di sini admin SeribuuCara mau membagikan sebuah kode html untuk mereset agar template dalam keadaan reset dan kosong tidak apapun di di tampilan blognya.
+
+Cara Mereset Template Blogger Kedalam keadaan kosong.
+
+Nah untuk caranya sangatlah mudah sahabat kalian cuman perlu beberapa tindakan yang akan saya sebutkan sebagai berikut:
+
+Pertama kalian buka dashboard blogger
+Dan pergi ke Tema
+Setelah itu klik tombol panah ke bawah di bagian sesuaikan
+Dan klik Edit HTML
+Sesudah semua kode HTML nya terbuka
+Kalian Pencet kombinasi tombol CTRL + A
+Dan kemudian Klik delete 
+Setelah isu masukan kode HTML ini untuk mereset template kedalam keadaan kosong
+<html>
+<head>
+<b:skin/>
+</head>
+<body><b:section id="reset"/>
+</body>
+</html>
+
+Kopikan kode tersebut kedalam Edit HTML
+Dan klik simpan
+
+Selesai template sudah dalam keadaan kosong
+Dan siap untuk memulihkan template atau mengembalikan template yang sudah kalian cadangkan maupun kalian unduh, kalian bisa mengunduh template blog disini.
+Gimana cukup mudah kan sahabat blogger pemula seperti admin ini kode cara mereset template blogge ini tentunya sangat admin butuhkan untuk berbagai kepentingan seperti saat mengedit html atau yang lainnya.
+
+Penutup
+
+Mungkin admin cukupkan sekian dulu tentang Cara Mereset Template Blogger kali ini semoga bermanfaat bagi kalian semua sampai berjumpa lagi di postingan berikutnya.
+
+Source : Jagoankode.com
