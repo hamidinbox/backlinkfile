@@ -1,0 +1,53 @@
+Cara Mudah Membuat Blog Di Wordpress
+==============================
+Cara Muda Membuat Blog Di Wordpress - Hai Sobat semua di postingan sebelumnya mimin juga pernah bahas 4 langkah mudah buat blog di blogger.com nah kali ini mimin update lagi nih kebalikan dari blogger yaitu cara sederhana membuat blog pada wordpress.
+
+Apa Itu Wordpress ?
+
+Wordpress adalah suatu layanan seperti blogger yakni untuk membuat blog berbeda dengan blogger wordpress mempunyai hosting sendiri dan bisa memasang plugin seperti yoast seo, dan plugin-plugin lainnya, wordpress juga diharuskan membayar untuk bisa menggunakan plugin dan mengganti tema atau mengimpor tema.
+Tutorial Sederhana Membuat Blog di Wordpress – Anda pernah merasa banyak ide di kepala Anda tetapi tidak ada media untuk menyalurkannya? Atau sesederhana ingin berbagi pengalaman yang baru saja Anda alami tetapi masih mencari tempat untuk merealisakannya?. 
+
+Jawabannya Anda harus mulai menulis di blog. Blog sendiri saat ini diibaratkan sebagai buku harian digital Anda. Anda bisa memposting apapun itu, baik kuliner, pengalaman di tempat liburan, tutorial-tutorial sederhana, tips dan trik, bahkan blog bisa menjadi tempat curhat online Anda. Menarik bukan?
+
+Blog sendiri mulai ramai di sekitar tahun 2008, melihat suksenya blog raditya dika yang waktu itu menceritakan tentang kehidupan pribadinya memancing orang untuk mulai mempunyai blog pribadi sendiri.
+
+Platfrom-platform yang menyediakan blog secara gratis pun mulai bermunculan. Beberapa contoh platform yang menyediakan layanan ini adalah Blogger dan Wordpress. 
+
+Blogger sendiri mengadaptasi sistem yang lebih basic. Syarat mutlaknya, Anda harus memiliki email dari Google, nantinya email Anda ini bisa digunakan untuk registrasi akun di blogger. Biasanya alamat blog Anda nantinya akan ditambahkan dengan (dot)blogspot(com).
+
+Berbeda halnya dengan Wordpress, mungkin tampilannya akan sedikit rumit dan kompleks, tetapi hal ini berbanding dengan fitur-fitur tambahan yang dapat Anda gunakan  nantinya.
+
+Tutorial Membuat Blog di Wordpress
+
+1. Buat akun
+Masuk ke website Wordpress, lalu pilih opsi “Get Started”. Untuk membuat akun baru, Anda harus mendaftarkan email Anda dan membuat password yang dipergunakan ketika Anda login. Anda bisa mendaftar dengan Apple ID jika anda menggunakan perangkat dengan sistem operasi Ios.
+
+2. Buat Nama Domain
+
+Buatlah nama domain yang unik dan menarik. Karena nama domain akan memberikan impact yang bagus untuk blog Anda. Pilihlah nama domain yang mudah diingat. Hindari sistem numerik agar memudahkan pengunjung menghafal nama domain Anda.
+
+Untuk layanan tidak berbayar di Wordpress, biasanya akan akan ditambahkan (dot)wordpress(dot)com di belakang nama domain Anda.
+
+3. Pengaturan dasar
+
+Di tahap ini Anda sudah bisa mulai mengatur layout dari tampilan blog Anda. berikan slogan (title) yang menggambarkan isi blog Anda, lalu mulai membuat daftar tag-tag yang akan Anda gunakan ketika Anda memulai blogging.
+
+Anda bisa mengatur tema yang cocok untuk blog Anda. lalu menambahkan widget yang sekiranya Anda butuhkan nantinya. Widget sendiri dapat berupa jam atau kalender, widget ini bisa kita ibaratkan dengan pajangan di rumah Anda. Tentunya dengan tampilan yang menarik dan informatif, blog Anda menjadi layak untuk dikunjungi.
+
+4. Memulai untuk posting blog
+
+Untuk memposting sebuah konten di dalam blog, dimulai dengan melihat panel dashboard, Anda pilh “Add New”, kemudian Anda akan diarahkan untuk memulai membuat konten Anda. Anda akan menemui area body box, di bagian Anda dapat menulis dan mengatur isi konten Anda sesuai dengan yang Anda inginkan. Untuk tampilan visual dari konten Anda, Anda dapat menambahkan gambar atau video dengan memilih “Add Media”.
+
+5. Masuk ke Publish Box
+
+Setelah Anda selesai membuat konten, sekarang saatnya Anda mempublish konten di blog Anda. Ada beberapa pilihan dalam publish box yang bisa Anda gunakan, seperti saved as draft, preview, revision dan yang terakhir scheduling. Jika pada konten Anda sudah menunjukkan “published”, artinya konten Anda telah muncul di blog Anda.
+
+Dengan mengikuti tutorial diatas, membuat blog di Wordpress bukan lagi hal yang sulit.
+
+Kesimpulan
+
+Dari cara sederhana membuat blog di wordpress tidak begitu sulit kan cara membuatnya perbedaan nya hanya saja wordpress lebih rumit untuk men Kustomisasi nya seperti kustom tampilannya untuk pemula, lain cerita dengan yang sudah terbiasa di wordpress.
+
+Demikianlah postingan tentang cara mudah membuat blog di wordpress kali ini mohon maaf kurang dan lebihnya karena mimin masih belajar hehehe salam Blogger santuy.
+
+Source : www.aseprohimatea.online
