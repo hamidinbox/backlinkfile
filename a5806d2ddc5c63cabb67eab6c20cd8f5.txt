@@ -1,0 +1,45 @@
+Cara memasang Lazy Load Google Analytics
+==============================
+Cara memasang Lazy Load Google Analytics, Baimana rasanya jika kalian mendapati blog kalian lemot saat di akses ! Tentu rasanya akan menjengkelkan bukan seperti yang telah di bahas pada blogger lain umumnya. Saya akan mengulasnya kembali pada blog saya bukan maksud untuk meniru atau kopas dari orang lain tapi kode ini yang saya gunakan untuk mempercepat blog saya, yaitu dengan memasang lazyload Google Analytics.
+
+Apa sih Lazyload Google Analytics ?
+
+Lazy load Googe Analytics adalah cara dimana menunda ID pelacakan pengunjung yang masuk keblog kita meload terlebih dahulu dengan cara menscroll halaman blog kita dan mengirimnya ke Google Analytics, maksud disini adalah menunda script analytics terload dahulu sampai pengunjung menscroll halaman blog maupun web site kita itu setau mimin, pehaman mimin juga belum terlalu luas.
+
+langkah apa saja yang dapat meningkatkan kecepatan blog kita diantaranya :
+
+Pertama pastikan memakai template yang mobile friendly dan responsive
+Kedua bisa dengan cara memakai Tiered Argo Cached miliknya Cloudflare
+Ketiga pasang iklan Google Adsense Secukupnya
+Optimalkan ukuran gambar pada konten yang dibuat contohnya membuat gambar konten dan mengkompressnya dengan mengunjungi situs ini https://ezgif.com/png-to-webp
+Batasi jumlah postingan perhalaman
+Mengaktifkan BR Compress atau Gzip Compress
+Menggunakan CDN seperti Cloudflare
+Menggunakan Gambar Format SVG dan memakai Cloudinary
+Gunakanlah Embed Video
+Lazyload Gambar
+Jangan lupa pasang juga script lazyload Google Analytics & Script Lazyload Google Adsense
+Dan masih banyak cara untuk meningkatkan kecepatan pada blog yang berjalan lambat saat di akses oh iya jangan lupa kalau blog kita udah cepat nih namun pada saat kita mengakses nya masih lemot di perhatikan juga koneksi internet nya stabil atau tidak. Daripada lama ayo kita langsung saja pada pokok pembahasannya.
+
+Cara Pasang Lazyload GA adalah sebagai berikut :
+
+Pertama pergi kedulu ke dashboar blogger dan mengunjungi tema
+Kemudian klik tanda panah kecil kebawah dan masuk ke Edit HTML "Hyper Text Markup Language"
+Dan masukan script lazyload di bawah ini antara <body> sebelum </body> tag penutup body
+Script Lazyload Google Analytics nya seperti ini 
+
+// Lazy Load Asep Rohimat
+var LLZAsepRohimat=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&!1===LLZAsepRohimat||0!=document.body.scrollTop&&!1===LLZAsepRohimat)&&(function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}(),LLZAsepRohimat=!0)},!0);var LLZAsepRohimat=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&!1===LLZAsepRohimat||0!=document.body.scrollTop&&!1===LLZAsepRohimat)&&(function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://connect.facebook.net/id_ID/all.js#xfbml=1";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}(),LLZAsepRohimat=!0)},!0);
+//]]>
+
+Selanjutnya pasang Lazyload Adsense script nya dibawah ini :
+
+*/ var lazyadsense = false; window.addEventListener('scroll', function(){if ((document.documentElement.scrollTop != 0 && lazyadsense === false) || (document.body.scrollTop != 0 && lazyadsense === false)) { (function() { var ad = document.createElement('script'); ad.setAttribute('crossorigin','anonymous'); ad.async = true; ad.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0000000000000000'; var sc = document.getElementsByTagName('script')[0]; sc.parentNode.insertBefore(ad, sc); })(); lazyadsense = true; }}, true); /*]]>*/
+Dan kemudian kalian ganti yang ca-pub-0000000000000000 dengan milik kalian agar bisa tampil iklan nya hehe jangan lupa ya kalau lupa id pub nya bisa mengunjungi Google Adsense masing-masing, dan bisa dilihat melalui kolom url browser kalian diatas bisa terlihat ID ca-Pub nya.
+
+Oh iya kalau ingin lebih cepat lagi ya jangan di pasang kedua-duanya adsense nya maksud nya jangan memasang yang script auto adsensenya, jadi pasang nya yang Lazy Adsense saja dan pasang manual iklan nya, dimana pasangnya ya di template masing-masing pasti sudah di sediakan untuk menaruh kode iklan adsense manual nya, yang admin lakukan juga seperti itu, bagaimana cara memasang Kode iklan manualnya insya Allah akan saya bahas dalam postingan berikutnya.
+
+Dan mohon maaf tutorial cara pasang lazy load Google Analytics dan Lazy Adsense ini di dedikasikan untuk para blogger pemula seperti saya sendiri bukan untuk di konsumsi oleh para pakarnya ya maaf sekali hehe apabila ada kesalahan dalam pengucapan nya, 
+
+Penutup
+Mungkin itu saja yang bisa mimin sampaikan cara memasang Lazy Load Google Analytics di lain kesempatan insya Allah akan saya bahas bagaimana cara memasang kode iklan adsense manual untuk blogger pemula seperti saya. Salam Blogger Pemula Asep Media Blogger.
