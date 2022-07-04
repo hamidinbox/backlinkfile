@@ -1,0 +1,22 @@
+Cara Hack Password Wifi Menggunakan Android
+==============================
+BLOG KOMPUTER - Wifi memang sangat berguna untuk kita gunakan saat berinternet dengan gratis tanpa data sendiri. Terlebih lagi jika Wifi itu gratis. Siapa yang tidak pengen coba Wifi gratis? Namun kebanyakan Wifi menggunakan password agar tidak mudah untuk sembarangan orang mengaksesnya. Namun kali ini saya akan memberikan satu buah tips Cara Hack Password Wifi Menggunakan Android.
+
+Cara Hack Password Wifi
+
+Untuk membobol password wifi, pertama-tama smartphone sobat harus sudah di root. Jika sudah di root, maka sobat bisa melanjutkan tips di bawah ini.
+
+1. Download aplikasi WIFI WPS WPA TESTER di Google.
+
+2. Setelah didownload, instal aplikasinya seperti biasa.
+
+3. Buka aplikasinya. Lalu akan ada perintah untuk menginstal aplikasi BussyBox dan memberikan akses root.
+
+4. Jika sudah, tekan tombol Refresh yang berada di sebelah kanan atas aplikasi Tester-nya. Lalu akan muncul daftar wifi yang tersedia.
+
+5. Pilih jaringan wifi yang kamu inginkan, lalu klik Connect Automatic PIN. Otomatis aplikasi ini akan mencari tahu password wifi-nya.
+
+6. Jika berhasil, akan muncul keterangan dengan kode wifinya. Klik Copy Password to Clipboard. Lalu pastekan passwordnya pada jaringan wifi yang tadi.
+
+
+Bagaimana? Mudah bukan? Dengan melakukan cara ini, kamu bisa internetan gratis dimanapun walaupun jaringan wifinya menggunakan password. Selamat mencoba!
