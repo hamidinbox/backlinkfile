@@ -1,0 +1,61 @@
+Cara Mudah Menambah RAM Pada PC
+==============================
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRSelwYNm6-NNqUtvKyfbYibjk-8DU4mCssUPK7pJ5VrAH3yLc2ihwgg6M0DsLOTYIVuwDMqtlgNXvtem7bIvZjExojuMd48xnfB9-Ea1T_sQhwJb8ue_YU2O88iigclvjPMdpDQ0GV3_4RZDqLp1bzVNNYL1LvGQ-c2JEyBC3ekPi_plQ9wnvIn9/s1200-rw/cara-menambah-RAM-pada-PC.png" style="margin-left: 1em; margin-right: 1em;"><img alt="Cara Mudah Menambah RAM Pada PC" border="0" data-original-height="720" data-original-width="1280" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRSelwYNm6-NNqUtvKyfbYibjk-8DU4mCssUPK7pJ5VrAH3yLc2ihwgg6M0DsLOTYIVuwDMqtlgNXvtem7bIvZjExojuMd48xnfB9-Ea1T_sQhwJb8ue_YU2O88iigclvjPMdpDQ0GV3_4RZDqLp1bzVNNYL1LvGQ-c2JEyBC3ekPi_plQ9wnvIn9/s1200-rw/cara-menambah-RAM-pada-PC.png" title="Cara Mudah Menambah RAM Pada PC" width="320" /></a></div>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Seperti
+yang kita ketahui, fungsi RAM adalah penyimpanan data sementara yang diambil
+dari hard disk dan diproses secara acak dan cepat oleh PC.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Jadi
+pada dasarnya, jika kapasitas RAM kecil, maka jumlah data yang dapat disimpan
+atau program yang dapat dijalankan juga terbatas.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Dan
+jika Anda memaksa membuka lebih banyak program, komputer akan melambat dan
+mungkin juga menimbukan suhu panas pada PC anda.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Oleh
+Karena itu disini admin akan memberikan cara mudah menabah RAM pada PC yang
+anda gunakan !<o:p></o:p></span></p>
+
+<h2 style="margin-bottom: 12pt; text-align: left;"><b><span color="windowtext" lang="IN" style="font-size: 14pt; line-height: 107%;">Cara Menambah RAM Pada PC</span></b></h2>
+
+<h3 style="margin-bottom: 12pt; text-align: left;"><b><span color="windowtext" lang="IN" style="font-size: 12pt; line-height: 107%;">1. Cek Spesifikasi RAM</span></b></h3>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Melakukan
+pengecekan pada spesifikasi pada RAM yang anda gunakan saat ini adalah hal
+penting untuk mengetahui tipe DDR RAM apa yang akan anda beli nantinya.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Dalam
+memberi RAM pastinya anda harus benar-benar memilih dengan baik seperti berapa
+kapasitas yang anda perlukan. Misalnya saat ini PC anda memiliki kapasitas RAM
+2 GB maka tentunya anda harus membeli RAM dengan kapasitas 4 GB. Akan tetapi
+admin sarankan kapasitas RAM yang ideal untuk sebuah PC adalah 8 GB.<o:p></o:p></span></p>
+
+<h3 style="margin-bottom: 12pt; text-align: left;"><b><span color="windowtext" lang="IN" style="font-size: 12pt; line-height: 107%;">2. Pasang RAM</span></b></h3>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Setelah
+anda membeli RAM selanjutnya anda memasang RAM pada PC. Caranya seperti Langkah
+dibawah ini</span></p><p class="MsoNormal"><span style="font-size: 12pt; text-indent: -18pt;">- Buka Casing PC Anda</span></p><p class="MsoNormal"><span style="font-size: 12pt; text-indent: -18pt;">- Cari Slot RAM</span></p><p class="MsoNormal"><span style="font-size: 12pt; text-indent: -18pt;">- Buka RAM lama</span></p><p class="MsoNormal"><span style="font-size: 12pt; text-indent: -18pt;">- Masukan RAM baru</span></p><p class="MsoNormal"><span style="font-size: 12pt; text-indent: -18pt;">- Pasang Kembali Casing Anda</span></p><p class="MsoNormal"><span style="font-size: 12pt; text-indent: -18pt;">- Selesai</span></p>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Sebetulnya
+caranya hanya seperti itu sangat gampang dilakukan akan tetapi jika anda ragu
+dalam memasang RAM maka sebaiknya anda meminta tolong kepada ahlinya<o:p></o:p></span></p>
+
+<h3 style="margin-bottom: 12pt; text-align: left;"><b><span color="windowtext" lang="IN">3.
+Selesai</span></b></h3>
+
+<h2 style="text-align: left;"><b><span color="windowtext" lang="IN" style="font-size: 14pt; line-height: 107%;">Kesimpulan</span></b></h2>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Kesimpulan
+pada artikel ini adalah<span style="mso-spacerun: yes;">&nbsp; </span>bahwa menambah
+RAM atau Uprage RAM pada PC sangat gampang dilakukan akan tetapi yang harus
+anda perhatikan adalah spesifikasi RAM agar kompatibel dengan PC anda dan
+tentunya anda tidak akan salah beli tipe RAM seperti tipe pada DDRnya.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="IN" style="font-size: 12pt; line-height: 107%;">Oke
+mungkin segitu saja artikel pada artikel kali ini semoga bisa bermanfaat bagi
+kalian semua.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 12pt; line-height: 107%; mso-ansi-language: EN-US;">Untuk membaca artikel menarik lainya tentang tutorial,
+tips dan trik teknologi anda bisa mengunjungi halaman web </span><span lang="IN"><a href="https://www.terspedia.my.id/"><span lang="EN-US" style="font-size: 12pt; line-height: 107%; mso-ansi-language: EN-US;">https://www.terspedia.my.id</span></a>&nbsp;untuk menambah wawasan pengetahuan anda.</span></p>
