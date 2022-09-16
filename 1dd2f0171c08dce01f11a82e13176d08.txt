@@ -1,0 +1,313 @@
+Fungsi Perencanaan Manajemen Planning
+==============================
+Fungsi Perencanaan (Planning)
+Fungsi perencanaan dalam manajemen adalah bagaimana direksi perusahaan menetapkan tujuan yang ingin dicapai dan menyusun strategi untuk mencapai tujuan tersebut. Sederhananya fungsi perencanaan adalah apa yang ingin dicapai dan bagaimana cara mencapainnya.
+
+Planning atau fungsi perencanaan adalah salah satu dari 4 fungsi manajemen selain fungsi organizing, actuating dan controlling.
+
+Perencanaan adalah langkah yang paling awal dalam menjalankan perusahaan dan bahkan bisa berpengaruh total bagi perusahaan dimasa yang akan datang.
+
+Fungsi manajemen yang lain akan mengikuti hasil perencanaan yang dilakukan. Fungsi manajemen yang lain tidak bisa berjalan dengan baik tanpa adanya manajemen perencanaan yang matang.
+Tujuan Perencanaan
+Setiap perusahaan memiliki tujuan yang berbeda beda, tentu perencanaan yang dilakukan pun berbeda.
+
+Namun secara umum, tujuan perusahaan melakukan perencanaan karena:
+Perencanaan adalah cara untuk mengantisipasi dan merekam perubahan
+Perencanaan mengarahkan (direction) kepada administrator maupun non administrator
+Perencanaan bisa menghindari atau paling tidak memperkecil pemborosan dan tumpang tindih pelaksanaan kegiatan.
+Perencanaan menetapkan standar yang akan dipakai untuk mempermudah pengawasan.
+
+Manfaat Fungsi Perencanaan
+Fungsi planning memiliki beberapa manfaat seperti:
+Hasil perencanaan menjadi pedoman dan acuan dasar dalam melaksanakan kegiatan
+Perencanaan bisa memudahkan pengawasan terhadap kegiatan yang dilakukan, apakah telah sesuai dengan yang telah direncanakan atau tidak
+Perencanaan bisa meminimalisir kesalahan yang mungkin akan terjadi
+Kegiatan setiap unit manajemen lebih terorganisir
+Pelaksanaan tugas menjadi lebih tepat, efektif dan efisien
+Penyimpangan yang berpotensi muncul bisa diantisipasi sedini mungkin
+Ancaman dan hambatan yang mungkin akan terjadi bisa diprediksi dan diatasi seawal mungkin
+Menganisipasi adanya perubahan kondisi baik internal maupuan eksternal yang bisa berpengaruh pada kegiatan perusahaan.
+Sebagai alat koordinasi antar bidang dan antar divisi dalam perusahaan 
+Memudahkan pengawasan
+
+Apa saja kegiatan fungsi manajemen perencanaan?
+
+Kegiatan pokok yang dilakukan fungsi planning adalah:
+Menentukan arah tujuan perusahaan dan target bisnisnya
+Menyusun strategi untuk mencapai tujuan yang dikehendaki
+Menentukan apa saja sumber daya yang dibutuhkan untuk menjalankan strategi tersebut
+Menetapkan standar atau benchmark untuk menentukan upaya dalam mencapai tujuan tersebut.
+ 
+Faktor yang Dipertimbangkan dalam Perencanaan
+Batasan Perencanaan
+Perencanaan pada dasarnya memutuskan apa yang diinginkan dan apa akan dilakukan. Jika ingin lebih detail, perencanaan harus bisa menjawab beberapa pertanyaan yang lebih familiar disingkat dengan 5W+1H.
+# What
+Apa yang ingin diperoleh perusahaan?
+
+Perencanaan yang bagus harus bisa menjelaskan tentang tujuan yang ingin dicapai oleh perusahaan.
+
+Apa yang ingin diperoleh dalam jangka pendek ?
+Apa yang ingin dapatkan dalam jangka menengah ?
+Tujuan seperti apa yang ingin dihasilkan dalam jangka panjang ?
+
+Jawaban atas pertanyaan ini nanti akan dijadikan dasar dalam perencanaan perusahaan selanjutnya.
+# Why
+Why adalah lanjutan dan penjelasan mengenai "what" tujuan yang ingin dicapai oleh perusahaan.
+
+Mengapa perusahaan memutuskan tujuan tersebut? Mengapa bukan tujuan yang lain?
+
+Bagaimana alasan yang menyertai dan juga analisanya?
+
+Apakah tujuan dari perencanaan sudah realistis? Apakah perencanaan menguntungkan dan masuk akal untuk dikerjakan?
+# Where
+Where berhubungan dengan dimana sebuah proyek dalam menjalankan tujuan akan dilakukan.
+
+Harus dijelaskan mengapa program untuk mencapai tujuan tersebut harus ditempat tertentu dan bukan ditempat yang lain.
+# When
+Kapan tujuan yang ditetapkan akan dieksekusi atau dilakukan ?
+
+Menentukan waktu eksekusi pekerjaan yang ingin dijalankan tidak bisa dilakukan serampangan. Harus ada analisanya.
+# Who
+Who berkaitan dengan personel yang akan menjalankan semua hal yang telah disusun diatas.
+
+Siapa yang akan menjalani tugas, Mengapa dia dan bukan orang lain ?
+
+Siapa pangsa pasar yang akan dituju ? dan mengapa bukan yang lain?
+# How
+Bagaimana cara tujuan itu diupayakan ? Bagaimana sebuah kegiatan akan dijalankan ?
+
+Apakah ada alternatif cara lain yang bisa dilakukan dan mengapa memilih cara ini?
+
+Semua pertanyaan tersebut harus bisa dijawab dalam melakukan perencanaan.
+
+Bagaimana Rencana yang Baik?
+Rencana perusahaan harus disusun dengan sistematika yang baik agar perencanaan bisa dieksekusi dengan mudah dan meminimalisir kesalahan yang bisa terjadi.
+
+Ada beberapa hal yang perlu diperhatikan untuk membuat perencanaan yang baik, diantaranya:
+# 1. Fleksibel
+Rencana yang disusun harus bisa menyesuaikan dengan segala kemungkinan yang bisa terjadi dalam keadaan yang sebenarnya.
+
+Terkadang situasi dan kondisi yang diperkirakan ternyata meleset dari kenyataan, rencana harus bisa menyesuaikan diri dengan perubahan yang terjadi.
+
+Tidak selalu mengubah rencana dasar atau mengubah semua rencana yang telah disusun, hanya diperlukan tindakan penyesuaian dalam menghadapi perubahan yang terjadi.
+
+Rencana tidak boleh kaku.
+
+Justru dengan kekakuan rencana, eksekusi pelaksanaan teknis rencana bisa merugikan perusahaan itu sendiri.
+
+Misalnya perusahaan memiliki rencana memperluas market share, salah satu caranya adalah dengan mengurangi harga jual produk.
+
+Namun ketika rencana tersebut dijalankan, terjadi kenaikan harga bahan baku produk secara signifikan sehingga membuat biaya produksi membengkak.
+
+Ditengah situasi yang seperti ini, apabila harga jual produk masih "ngotot" ingin diturunkan sesuai rencana, bukan tidak mungkin perusahaan akan mengalami kesulitan.
+# 2. Stabilitas Rencana
+Sebuah rencana yang disusun sebaiknya tidak perlu mengalami perubahan yang terlalu besar tiap waktu.
+
+Perencanaan yang stabil akan membuat perusahaan lebih fokus terhadap apa yang dikerjakan.
+
+Misalnya perusahaan memiliki rencana memperluas market share perusahaan. Ditengah perjalanan, ketika target rencana tersebut masih belum tercapai, tiba tiba perusahaan merencanakan pembangunan pabrik baru.
+
+Tentu saja hal ini bisa membuat fokus perusahaan akan terpecah, mengutamakan pembangunan pabrik baru atau memperluas market share yang telah direncanakan sebelumnya.
+
+Karena sumber daya perusahaan terbatas, maka rencana yang telah disusun bisa tidak tercapai semuanya.
+
+Memang, perencanaan harus fleksibel, namun fleksibel disini bukan berarti harus mengganti rencana "induk" yang utama dari perusahaan.
+
+Yang fleksibel adalah caranya.
+
+Cara bagaimana perusahaan menjalankan rencana yang disusun.
+
+Rencana atau tujuan utamanya sebisa mungkin tidak berubah. Kecuali memang ada hal yang memaksa perusahaan harus mengubah tujuannya.
+
+Jika perusahaan memiliki rencana memperluas market share dan kondisi mengalami perubahan.
+
+Maka yang diubah adalah "cara" memperluas market sharenya. Bukan rencana market sharenya.
+
+Kalau sebelumnya menggunakan cara A, maka bisa diganti dengan rencana B.
+
+Poin pentingnya adalah perencanaan memiliki tujuan yang jelas dan fokus.
+# 3. Terintegrasi dengan Baik
+Rencana harus bisa dikomunikasikan dengan baik dan mudah dipahami oleh semua pihak yang akan melaksanakan rencana tersebut.
+
+Hal ini untuk menghindari penafsiran rencana yang berbeda beda diantara pihak pihak yang terlibat.
+
+Kesalahan komunikasi bisa membuat rencana tidak bisa berjalan dengan baik.
+
+Misalnya apa yang dilakukan oleh manajemen produksi harus sesuai dengan rencana yang disusun oleh manajemen penjualan dan manajemen keuangan. Harus klop.
+
+Demikian juga dengan divisi manajemen yang lain.
+
+Tidak berjalan sendiri sendiri dan bahkan saling bertentangan.
+
+Rencana yang baik juga memiliki tanggung jawab yang seimbang pada setiap bagian organisasi.
+# 4. Detail
+Rencana yang baik harus detail dan meliputi segala hal yang dibutuhkan dalam rencana tersebut.
+
+Terutama mengenai 5W+1H diatas.
+
+Detail rencana, apa yang harus dilakukan, siapa yang akan melakukan, kapan harus dilakukan dan bahkan target yang harus dicapai harus direncanakan hingga lapisan manajemen yang paling bawah sekalipun.
+# 5. Mempertimbangkan Sumber Daya
+Sehebat apapun rencananya, hendaknya memperhitungkan dengan cermat sumber daya yang dimiliki perusahaan.
+
+Apakah rencana tersebut realistis dan bisa dicapai dengan sumber daya yang dimiliki atau ternyata terlalu "mengawang awang" yang susah untuk dicapai.
+
+Segala sumber daya yang tersedia bisa digunakan dengan efektif dan berdaya guna maksimal.
+
+Rencana boleh ambisius apabila sumber daya yang dimiliki bisa mendukungnya.
+# 6. Sederhana dan Tidak Sulit Dilaksanakan (Aplikatif)
+Rencana yang baik adalah rencana sederhana dan tidak susah dijalankan. Ini bukan berarti rencana yang sulit dijalankan menjadi rencana yang tidak baik.
+
+Bukan begitu...
+
+Jika ada cara yang lebih mudah maka itu lebih baik.
+
+Effort yang minimal dengan hasil yang maksimal.
+
+Perencaaan sudah tentu memperhitungkan segala kemungkinan yang ada. Kemungkinan yang paling mudah dijalankan adalah pilihan yang diprioritaskan.
+
+Proses Pembuatan Rencana
+# 1. Menetapkan Tugas dan Tujuan
+Langkah pertama dalam menyusun perencanaan adalah menetapkan tugas dan tujuan.
+
+Tugas adalah tentang apa yang akan dilakukan oleh pihak "siapa" yang ditunjuk.
+
+Tujuan adalah apa yang akan diperoleh. Nilai yang ingin didapatkan.
+
+Tugas yang dijalankan adalah untuk mencapai tujuan yang diinginkan. Tugas pasti selaras dengan tujuan.
+
+Sebuah rencana tidak bisa disusun tanpa adanya tujuan yang jelas.
+# 2. Observasi dan Analisa
+Langkah selanjutnya adalah melakukan observasi terhadap hal hal yang berkaitan dengan usaha mencapai tujuan yang ditentukan.
+
+Beberapa data dikumpulkan dan dilakukan analisa untuk menentukan bagaimana cara yang akan digunakan untuk menjalankan rencana.
+# 3. Menyiapkan Beberapa Kemungkinan
+Setelah beberapa data dianalisa, tahap selanjutnya adalah menyiapkan beberapa alternatif atau opsi dalam perencanaan.
+
+Setiap rencana paling tidak harus menyiapkan beberapa kemungkinan dalam mencapai tujuan.
+
+Alternatif alternatif lain bisa disiapkan dalam perencanaan.
+
+Ada kemungkinan sebuah rencana tidak bisa berjalan maksimal. Untuk itu rencana alternatif yang bisa digunakan harus disiapkan.
+
+Misalnya lamanya penyelesaian tugas yang ternyata meleset, efisiensi biaya kurang dari target yang direncanakan dan lain sebagainya.
+# 4. Membuat Sintesa
+Sintesa adalah menggabungkan berbagai kemungkinan yang ada sebagai alternatif yang akan dipilih.
+
+Setiap kemungkinan memiliki kelemahan masing masing, menggabungkan beberapa kemungkinan bisa saja membuat rencana alternatif yang jauh lebih baik.
+
+Siapa Pembuat Rencana?
+# 1. Panitia Perencanaan
+Panitia perencanaan terdiri dari berbagai unsur yang mewakili beberapa pihak yang berasal dari struktur organisasi perusahaan.
+
+Setiap wakil membawa rencana, harapan dan misinya sendiri.
+
+Semua ide yang berasal dari perwakilan kelompok ini akan digabung dan dibahas hingga detail untuk dijadikan rencana perusahaan.
+
+Ada perbedaan bahasan perencanaan dari tiap tiap wakil sesuai dengan divisi dan tingkatannya. Secara umum perencanaan berdasarkan tingkat manajemen dibagi atas:
+
+# Manajemen Puncak
+
+Perencanaan pada jenjang manajemen ini bersifat:
+Strategis
+Merumuskan tujuan jangka panjang
+Pengambilan keputusan
+Perencanaanya dijadikan pedoman oleh manajemen ditingkat yang lebih bawah
+
+# Manajemen Tingkat Menengah
+
+Perencanaan manajemen tingkat mengah (middle) ini cenderung bersifat administratif dan menyiapkan berbagai alternatif cara untuk diteruskan kepada manajemen tingkat dibawahnya.
+
+# Manajemen Tingkat Bawah
+
+Perencanaan pada manajemen tingkat bawah lebih fokus terhadap perencanaan teknis dilapangan. Perencanaan manajemen tingkat bawah lebih detail bahkan sangat detail untuk mengeksekusi perencanaan yang telah disusun oleh manajemen tingkat menengah.
+# 2. Bagian Perencanaan
+Ada beberapa perusahaan yang memang memilliki unit khusus hanya untuk melakukan perencanaan.
+
+Tugasnya hanya untuk menyusun rencana dan tidak ada unsur yang menjadi wakil dari sebuah bagian dari organisasi perusahaan.
+# 3. Tenaga Staf
+Secara fungsional, didalam sebuah perusahaan umumnya terdapat dua kelompok, yaitu:
+Pelaksana. Sebuah kelompok yang menangangi pekerjaan secara langsung
+Staf. Bisa dikatakan sebagai pemikir yang secara tidak langsung menghasilkan produk perusahaan. Tugas utamanya adalah melakukan analisa terhadap data data yang ada dan kemudian merencanakan sesuatu berdasarkan hasil analisa terhadap data tersebut.
+
+Bentuk Bentuk Perencanaan
+# 1. Rencana Global
+Rencana global bisa dikatakan sebagai visi perusahaan, arah perusahaan. Akan dibawa kemana perusahaan ini nantinya.
+
+Ada beberapa hal yang menjadi pertimbangan dalam menyusun rencana global perusahaan yang biasa dikenal dengan nama analisa SWOT. (Streng, Weakness, Opportunity, Treath)
+
+A. Strenght | Kekuatan
+
+Strenght adalah semua hal yang menjadi kekuatan utama dari perusahaan.
+
+Misalnya PT Semen Gresik atau sekarang menjadi PT Semen Indonesia kekuatan utamanya adalah pada land bank dan izin ekplorasi pegunungan semen yang melimpah. Perusahaan kompetitor sejenis kesulitan dalam hal ini.
+
+Kekuatan lainnya adalah "brand" dan market share yang dikuasai sudah menyebar hampir menyeluruh wilayah di Indonesia. Pesaingnya masih belum mencapai tahap ini.
+
+B.Weakness | Kelemahan
+
+Weakness atau kelemahan adalah sisi lain dari strenght yang dimiliki oleh perusahaan.
+
+Misalnya PT Semen Indonesia tadi, salah satu weakness mereka adalah status BUMN-nya.
+
+BUMN bisa sangat dekat dengan pemerintah dan PT Semen Indonesia berpotensi ditunggani agenda politik atau semacamnya.
+
+Kelemahan lain adalah adanya resistensi dari masyarakat apabila hendak melakukan perluasan usaha dengan mengadakan ekplorasi lahan baru.
+
+Isu lingkungan selalu menyulitkan PT Semen Indonesia dalam membangun pabrik baru yang bahan bakunya akan menambang lahan "pegunungan".
+
+C. Opportunity | Peluang
+
+Peluang adalah kesempatan terbuka untuk mendapatkan hasil yang maksimal yang dimiliki oleh perusahaan.
+
+Merajuk pada contoh PT Semen Indonesia tadi, peluang usaha masih terbuka lebar dengan status indonesia sebagai negara berkembang. Negara berkembang yang memiliki ribuan proyek fisik, infrasturktur yang membutuhkan semen. Belum lagi mengenai pangsa pasar rumah tangga.
+
+Kebutuhan semen dalam negeri masih tidak bisa dipenuhi sepenuhnya
+
+Ini adalah peluang yang sangat besar dengan jumlah kompetitor masih bisa dihitung dengan jari.
+
+C. Threath | Hambatan
+
+Treath adalah tekanan dan hambatan yang melekat pada perusahaan.
+
+Tekanan atau hambatan bisa berasal dari internal atau eksternal perusahaan bahkan bisa melekat kapan saja dengan bidang industri yang dibidangi oleh perusahaan.
+
+Misalnya masih mengenai PT Semen Indonesia, adanya teknologi baru dalam pendirian sebuah bangunan yang tidak terlalu membutuhkan semen bisa menjadi ancaman tekanan bagi perusahaan semen.
+
+Mungkin nanti akan ditemui teknologi baru yang bisa mengurangi penggunaan semen. Contoh sederhanya adalah penggunaan bata ringan yang pemasangannya tidak terlalu membutuhkan semen.
+
+Selain itu, sebagai BUMN kondisi bisa tidak stabil apabila kondisi politik sedang bergejolak. Pergantian menteri BUMN misalnya, maka bisa saja arah kebijakan menteri yang baru berbeda dengan sebelumnya.
+
+Analisis SWOT tersebut harus dipertimbangkan dalam manajemen perencanaan perusahaan. Hasil analisa ini akan menjadi pedoman untuk perencanaan lanjutan yang lebih rinci dan spesifik.
+# 2. Rencana Strategis
+Rencana strategis adalah bagian dari rencana global namun lebih detail dan terperinci.
+
+Rencana strategis menyusun rancangan yang akan dijalankan dalam mencapai rencana global.
+
+Biasanya rencana strategis adalah rencana jangka panjang perusahaan dan menggunakan sistem prioritas dimana rencana yang menjadi prioritas akan dijalankan terlebih dahulu.
+
+Ada beberapa alasan mengapa rencana strategis disusun:
+Sebagai pedoman bagi perencanaan lain yang akan dijalankan
+Memudahkan pemahaman perencanaan lainnya
+Titik awal dalam penilaian semua kegiatan yang dilakukan oleh manajemen dan pihak lainnya.
+# 3. Rencana Operasional
+Perencanaan operasional adalah rencana tentang kegiatan operasional yang akan dilakukan dalam jangka pendek.
+
+Ada dua tipe dalam perencanaan operasional, yaitu perencanaan sekali pakai dan perencanaan tetap.
+
+A. Rencana Sekali Pakai | Single Use Plan
+
+Rencana sekali pakai adalah perencanaan yang tidak akan digunakan kembali setelah tujuannya tercapai.
+
+Misalnya rencana pembelian mesin.
+
+Setelah mesin berhasil terbeli, maka tidak ada rencana membeli mesin kembali setidaknya dalam beberapa tahun kedepan.
+
+B. Rencana Tetap | Standing Plan
+
+Rencana tetap adalah perencanaan operasional yang tetap akan digunakan kembali walaupun tujuannya telah tercapai.
+
+Biasanya perencanaan tetap dilakukan berdasarkan pendekatan standar dan penanganan kondisi yang sudah bisa diperkirakan sebelumnya.
+
+Misalnya, pembelian bahan baku, pembelian persediaan, pembelian perlengkapan dan yang lainnya. Kegiatan itu nanti akan dilakukan berulang tiap waktu.
+
+Sumber : https://www.akutawhuku.my.id/2022/09/fungsi-perencanaan-manajemen.html
