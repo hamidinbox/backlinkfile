@@ -1,0 +1,56 @@
+Perangkat Keras / Hardware pada Komputer / Laptop
+==============================
+<p>&nbsp;Perangkat keras (hardware) adalah komponen fisik dari suatu
+sistem komputer atau perangkat elektronik yang terdiri dari sirkuit elektronik,
+papan sirkuit cetak, mikroprosesor, memori, dan perangkat input/output (I/O)
+seperti keyboard, mouse, monitor, printer, dan perangkat penyimpanan seperti
+hard disk dan flash drive. Perangkat keras bertanggung jawab untuk memproses
+dan menyimpan data, serta memberikan output ke pengguna. Perangkat keras
+terdiri dari berbagai macam komponen dengan fungsi yang berbeda-beda, namun
+bekerja sama untuk membuat sebuah sistem komputer atau perangkat elektronik
+dapat berfungsi dengan baik.</p><p class="MsoNormal"><o:p></o:p></p>
+
+<p class="MsoNormal">Macam-macam Perangkat Keras<o:p></o:p></p>
+
+<p class="MsoNormal">Berikut ini adalah beberapa macam perangkat keras yang
+umumnya terdapat pada sebuah sistem komputer:<o:p></o:p></p>
+
+<ol start="1" style="margin-top: 0cm;" type="1">
+ <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;">Prosesor
+     (Processor): Prosesor adalah komponen utama pada sebuah sistem komputer
+     yang bertanggung jawab untuk mengeksekusi instruksi dan memproses data. Prosesor
+     biasanya terdiri dari beberapa inti (core) dan memiliki kecepatan kinerja
+     yang berbeda-beda.<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtAATZ1FnekSwzJn6ysrN0dczaDRed4e0l0dJqvp2EQ3qn9YoRGHwb29keBhjeR5YlAdQWfp9KB_RG_s0ZJ-vmcq-bIzmCwI8lGcPjqiW_d3JAUMAZuzhD5xN-m_y9r4dP7KPbLz4-BONpLH3ZQVppm87ifj2Cg5J1mhTrG4t9J_25VDfe6mkLPbmI/s510/cpu-564771__340.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="340" data-original-width="510" height="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtAATZ1FnekSwzJn6ysrN0dczaDRed4e0l0dJqvp2EQ3qn9YoRGHwb29keBhjeR5YlAdQWfp9KB_RG_s0ZJ-vmcq-bIzmCwI8lGcPjqiW_d3JAUMAZuzhD5xN-m_y9r4dP7KPbLz4-BONpLH3ZQVppm87ifj2Cg5J1mhTrG4t9J_25VDfe6mkLPbmI/s320/cpu-564771__340.jpg" width="320" /></a></div><br /><br /></li><li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;">Memori
+     (Memory): Memori adalah komponen yang digunakan untuk menyimpan data dan
+     program yang sedang dieksekusi oleh sistem komputer. Terdapat beberapa
+     jenis memori seperti RAM (Random Access Memory), ROM (Read Only Memory),
+     dan cache.<o:p></o:p></li>
+ <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1g9XB9W_Zf53sQQWp4LvE7o4h5H16Fu1FNg_hr73owtq0P9AyZUvqJ5rtwx4qQYzNYnkaFsvC9dM5is2TxD8vBtZAMi4m06F2-NAdyWjOgTVcDbovQNUQE-h62TmMFbZ3BQNSDetxS4tcyT_P5EPsfm1rSNIrlQNyIpflaVVa11kpBXTc3VPs0RWx/s545/card-adaptor-7657988__340.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="340" data-original-width="545" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1g9XB9W_Zf53sQQWp4LvE7o4h5H16Fu1FNg_hr73owtq0P9AyZUvqJ5rtwx4qQYzNYnkaFsvC9dM5is2TxD8vBtZAMi4m06F2-NAdyWjOgTVcDbovQNUQE-h62TmMFbZ3BQNSDetxS4tcyT_P5EPsfm1rSNIrlQNyIpflaVVa11kpBXTc3VPs0RWx/s320/card-adaptor-7657988__340.jpg" width="320" /></a></div>Hard
+     disk dan Solid State Drive (SSD): Hard disk dan SSD adalah perangkat
+     penyimpanan yang digunakan untuk menyimpan data dan program pada sebuah
+     sistem komputer. Hard disk menggunakan sistem piringan magnetik untuk
+     menyimpan data, sedangkan SSD menggunakan memori flash untuk menyimpan
+     data.<o:p></o:p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnk3Q9gb0pwcPB_1PRRZf9xmKYO93U8yNe2oqd5fHXlYD5h4vyFWs4E_4IbjqKu_Dib4y9hX-HoPE4Td-Wzr62jDQcDzH4vj-PQHFxbS-1rOrbqLuwT5vLBnXpbVEwM0iFwowHccpcfKj2iP29m0cDpq767ZVXZFIrhVWBpuqEjA06wjOde1ZipbEO/s453/data-storage-319844__340.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="340" data-original-width="453" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnk3Q9gb0pwcPB_1PRRZf9xmKYO93U8yNe2oqd5fHXlYD5h4vyFWs4E_4IbjqKu_Dib4y9hX-HoPE4Td-Wzr62jDQcDzH4vj-PQHFxbS-1rOrbqLuwT5vLBnXpbVEwM0iFwowHccpcfKj2iP29m0cDpq767ZVXZFIrhVWBpuqEjA06wjOde1ZipbEO/s320/data-storage-319844__340.jpg" width="320" /></a></div></li>
+ <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;">Kartu
+     Grafis (Graphics Card): Kartu grafis adalah perangkat keras yang digunakan
+     untuk menghasilkan gambar dan grafik pada layar monitor. Kartu grafis
+     terdiri dari beberapa komponen seperti GPU (Graphics Processing Unit),
+     RAM, dan pendingin.<o:p></o:p></li>
+ <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbqLiEIgQNU9PabdvOK2R7iDWPz1Qu_7d_Bqd-hcELBuuG-AP2eWHtnjXsm2Lli3xuiHQtr22EYVPUuT2h9_q4wwQeX4ldd7xMMSrU86j5__kyPqv-Sr6nduI6rxaUuHAIXNl5Hziv1HyLaBe2fi1E0lVQxDjdlto7WJczNoixkTcsllcKOE1FBRFA/s239/download%20(5).jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="211" data-original-width="239" height="211" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbqLiEIgQNU9PabdvOK2R7iDWPz1Qu_7d_Bqd-hcELBuuG-AP2eWHtnjXsm2Lli3xuiHQtr22EYVPUuT2h9_q4wwQeX4ldd7xMMSrU86j5__kyPqv-Sr6nduI6rxaUuHAIXNl5Hziv1HyLaBe2fi1E0lVQxDjdlto7WJczNoixkTcsllcKOE1FBRFA/s1600/download%20(5).jpg" width="239" /></a></div>Power
+     Supply Unit (PSU): PSU adalah perangkat keras yang digunakan untuk
+     mengatur dan mengalirkan listrik ke seluruh komponen sistem komputer.<o:p></o:p></li>
+ <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf_6HeqxAycsNLsQgbjbmREa5aAOc8yjOfRfaOrDcvHrRznKf7psRKMp3EzkvxN0Hud_mZZySxFrRt-hPBE94UMGHwsh62q1V5BoVY55TPP_Jeo8STfl6TKpBCpsVVaikevq2im0PwdhsFXDupVeeG-vaIdZcyHvf3KU1nW0mWNO2nrOpISU2TCyn_/s225/download%20(6).jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="225" data-original-width="225" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf_6HeqxAycsNLsQgbjbmREa5aAOc8yjOfRfaOrDcvHrRznKf7psRKMp3EzkvxN0Hud_mZZySxFrRt-hPBE94UMGHwsh62q1V5BoVY55TPP_Jeo8STfl6TKpBCpsVVaikevq2im0PwdhsFXDupVeeG-vaIdZcyHvf3KU1nW0mWNO2nrOpISU2TCyn_/s1600/download%20(6).jpg" width="225" /></a></div>Motherboard:
+     Motherboard adalah papan sirkuit utama pada sebuah sistem komputer yang
+     menghubungkan semua komponen perangkat keras. Motherboard terdiri dari
+     beberapa slot ekspansi dan port I/O.<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPxk0evP5tmpcFkYwOmJy-vNGZNw38CkLwNDKJ7YZcZ85ZCFQqU0vUOrI_h0slQej5bDYp6eWEJ-4rSt523kb6AATrYuyzL4wL-BC0QPY_SXQ7wYBe9v4sCHpdJsM4xuAbq419YkvWDsr-VKtby9DgHDxRpXBnlwiQySz3z3LtHsO5uNS046x4a5_/s273/download%20(7).jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="184" data-original-width="273" height="184" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPxk0evP5tmpcFkYwOmJy-vNGZNw38CkLwNDKJ7YZcZ85ZCFQqU0vUOrI_h0slQej5bDYp6eWEJ-4rSt523kb6AATrYuyzL4wL-BC0QPY_SXQ7wYBe9v4sCHpdJsM4xuAbq419YkvWDsr-VKtby9DgHDxRpXBnlwiQySz3z3LtHsO5uNS046x4a5_/s1600/download%20(7).jpg" width="273" /></a></div><br /></li>
+ <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;">Perangkat
+     Input/Output (I/O): Perangkat I/O seperti keyboard, mouse, printer, dan
+     scanner digunakan untuk memasukkan atau mengambil data dari sistem
+     komputer.<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWZTVYrFVMVw-BSTGfvT7u_3ealbITrnvNky5lt8eM6bA86558w6BiTzt6OncfE9QbsOe_vkdETj328Hk_jZOddLei4xgk1Cd5gs-KpwxuD6knEupkp1jbMvcPdg105UUYHJukqjUtL2hwQGOpnd9dZheLnEUAgSb-yRZfJHxwfoLz3u_aP9fYkVMJ/s300/download%20(8).jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="159" data-original-width="300" height="159" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWZTVYrFVMVw-BSTGfvT7u_3ealbITrnvNky5lt8eM6bA86558w6BiTzt6OncfE9QbsOe_vkdETj328Hk_jZOddLei4xgk1Cd5gs-KpwxuD6knEupkp1jbMvcPdg105UUYHJukqjUtL2hwQGOpnd9dZheLnEUAgSb-yRZfJHxwfoLz3u_aP9fYkVMJ/s1600/download%20(8).jpg" width="300" /></a></div><br /><o:p></o:p></li>
+ <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;">Perangkat
+     Jaringan (Network Devices): Perangkat jaringan seperti modem, router, dan
+     switch digunakan untuk menghubungkan sistem komputer dengan jaringan
+     internet atau jaringan lokal lainnya.<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHQC0Hd4Ja8POQgVKEi6qnRBSCiO16cptLjmHI4c8YkujNoJd_etQ_gABZvQ4PH5Uk5Z_9FgcZdKRyarUd4m1Y6p16cUkj5VRxBJF4tjJFA0LUnHcfTEQ3gJofQAtc3iA8j0ZcD2wSeZE79Tyj1bIMlEHHMKROs7d-FQ3FZR-5RlpDY9MjW-eqizRM/s296/download%20(9).jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="170" data-original-width="296" height="170" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHQC0Hd4Ja8POQgVKEi6qnRBSCiO16cptLjmHI4c8YkujNoJd_etQ_gABZvQ4PH5Uk5Z_9FgcZdKRyarUd4m1Y6p16cUkj5VRxBJF4tjJFA0LUnHcfTEQ3gJofQAtc3iA8j0ZcD2wSeZE79Tyj1bIMlEHHMKROs7d-FQ3FZR-5RlpDY9MjW-eqizRM/s1600/download%20(9).jpg" width="296" /></a></div><br /></li>
+</ol>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
